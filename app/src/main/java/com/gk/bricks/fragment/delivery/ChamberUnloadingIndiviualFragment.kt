@@ -13,6 +13,7 @@ import android.view.ViewGroup
 import android.view.animation.OvershootInterpolator
 import android.widget.ImageView
 import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.bumptech.glide.Glide
 import com.gk.bricks.R
@@ -71,17 +72,15 @@ class ChamberUnloadingIndiviualFragment : BaseFragment() {
             viewModel.navigateBack()
         }
 
-//        binding.ivAdd.setOnClickListener {
-//            val bundle = Bundle().apply {
-//                putString("vendor_id", vendorId)
-//                putString("vendor_name", vendorName)
-//                putString("vendor_type", vendorType)
-//            }
-//            findNavController().navigate(
-//                R.id.addVendorLogsFragment,
-//                bundle
-//            )
-//        }
+        binding.ivSend.setOnClickListener {
+            val bundle = Bundle().apply {
+                putString("chamber_id", chamberId)
+            }
+            findNavController().navigate(
+                R.id.addChamberUnloadingLogsFragment,
+                bundle
+            )
+        }
 //
 //
 //        binding.ivPay.setOnClickListener {
@@ -116,12 +115,10 @@ class ChamberUnloadingIndiviualFragment : BaseFragment() {
                 getRupeesFormat(bricksChamberLoading?.totalReceivedAmount ?: 0)
 
             binding.tvTakenCount.text =
-                getRupeesFormat(bricksChamberLoading?.totalTakenBricks ?: 0)
+                getCommaFormat(bricksChamberLoading?.totalTakenBricks ?: 0)
 
             mainNavViewModel.getChamberUnloadingLog(chamberId) { workLogs ->
                 binding.pbLoad.visibility = View.GONE
-                binding.ivPay.isClickable = true
-                binding.ivPay.isEnabled = true
                 binding.shimmerLayout.visibility = View.GONE
                 binding.llsalary.visibility = View.VISIBLE
                 if (workLogs.isNotEmpty()) {

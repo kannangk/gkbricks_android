@@ -1,0 +1,17 @@
+[
+  {
+    "name": "employee_nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "main_nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "delivery_nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]

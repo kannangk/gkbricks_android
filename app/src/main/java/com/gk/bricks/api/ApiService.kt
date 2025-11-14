@@ -35,4 +35,11 @@ interface ApiService {
         @Header("api_key") api_key: String,
         @Body request: EmployeeAddRequest
     ): Call<ApiResponse>
+
+    @POST("addCustomerLoadLog")
+    fun addCustomerLoadLog(
+        @Header("api_key") api_key: String,
+        @Body request: CustomerLoadLogRequest
+    ): Call<ApiResponse>
+
 }

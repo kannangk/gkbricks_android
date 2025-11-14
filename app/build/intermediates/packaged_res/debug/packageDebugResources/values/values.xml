@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#0B1C24</color>
+    <color name="app_primary">#0B1C24</color>
+    <color name="bg_primary">#07111D</color>
+    <color name="bg_secondary">#0C1926</color>
+    <color name="bg_secondary_50">#800C1926</color>
+    <color name="black">#FF000000</color>
+    <color name="calendar_bg">#FFFFFF</color>
+    <color name="calendar_selected">#FF9800</color>
+    <color name="calendar_text">#000000</color>
+    <color name="capture_toolbar">#ffffff</color>
+    <color name="capture_toolbar_tint">#000000</color>
+    <color name="dark_brown">#654321</color>
+    <color name="emp_list_row">#2E3C46</color>
+    <color name="error_red">#FF0051</color>
+    <color name="gold">#F4B84A</color>
+    <color name="gold_40">#90F4B84A</color>
+    <color name="green">#006600</color>
+    <color name="lightGrey">#80ACACAC</color>
+    <color name="light_grey">#50D3D3D3</color>
+    <color name="orange">#FF8C00</color>
+    <color name="red">#FF3D48</color>
+    <color name="select_floor_color">#757272</color>
+    <color name="status_bar">#0B1C24</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_bricks_production">Add Production Bricks</string>
+    <string name="add_bricks_taken">Add bricks taken</string>
+    <string name="add_chamber">Add Chamber Loading</string>
+    <string name="add_chamber_log">Add Chamber Loading Log</string>
+    <string name="add_chamber_msg">Do you want to add the new chamber?</string>
+    <string name="add_firewood_log">Add firewood load</string>
+    <string name="add_firewood_owner">Add Firewood Owner</string>
+    <string name="add_labour">Add Labour</string>
+    <string name="add_sand_log">Add sand load</string>
+    <string name="add_sand_owner">Add Sand Owner</string>
+    <string name="advance">Advance</string>
+    <string name="alamaram">Alamaram</string>
+    <string name="already_you_paid">Already you paid</string>
+    <string name="app_name">GK Bricks</string>
+    <string name="aththi_maram">Aththi maram</string>
+    <string name="brick">Bricks</string>
+    <string name="bricks_count">Bricks Count</string>
+    <string name="cancel">Cancel</string>
+    <string name="chamber_id">Chamber ID</string>
+    <string name="chamber_loading">Chamber Loading</string>
+    <string name="chamber_unloading">Chamber Unloading</string>
+    <string name="charging_percentage">%1$d%%</string>
+    <string name="check_bricks_count">Check bricks count</string>
+    <string name="check_paid_amount">Check paid amount</string>
+    <string name="close">Close</string>
+    <string name="confirm">Confirm</string>
+    <string name="count">Count</string>
+    <string name="customer_name">Customer name</string>
+    <string name="date">Date</string>
+    <string name="delete_failed">Failed to delete</string>
+    <string name="deleted_success">Deleted successfully</string>
+    <string name="enter_salary">Enter Salary</string>
+    <string name="female">Female</string>
+    <string name="field_is_required">Field is Requird</string>
+    <string name="firebase_database_url" translatable="false">https://gk-bricks-default-rtdb.firebaseio.com</string>
+    <string name="firewood_loading">Firewood Loading</string>
+    <string name="firewood_log_details">Firewood load details</string>
+    <string name="firewood_name_label">Wood name</string>
+    <string name="firewood_price_label">Wood amount</string>
+    <string name="gcm_defaultSenderId" translatable="false">435520211701</string>
+    <string name="general_settings">Settings</string>
+    <string name="gk_bricks">GK Bricks</string>
+    <string name="google_api_key" translatable="false">AIzaSyAndYqp_47XlIJUURM7Jbpy2T90qiy1K1Y</string>
+    <string name="google_app_id" translatable="false">1:435520211701:android:fc7ea72df22c0e649353bc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAndYqp_47XlIJUURM7Jbpy2T90qiy1K1Y</string>
+    <string name="google_storage_bucket" translatable="false">gk-bricks.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="kalimann">Kalimann</string>
+    <string name="karisal_mann">Karisal mann</string>
+    <string name="karuvellamaram">Karuvellamaram</string>
+    <string name="kattu_mann">Kattu mann</string>
+    <string name="labour_details">Labour Details</string>
+    <string name="labour_name">Labour Name</string>
+    <string name="last_production_bricks">Last Production Count</string>
+    <string name="load_name">Load name</string>
+    <string name="maamaram">Maamaram</string>
+    <string name="male">Male</string>
+    <string name="manal_mann">Manal mann</string>
+    <string name="mann">Mann</string>
+    <string name="name">Name</string>
+    <string name="no_data">No Data Available</string>
+    <string name="one_day_salary">One Day Salary</string>
+    <string name="owner_name">Owner name</string>
+    <string name="paid">Paid</string>
+    <string name="paid_details">Paid Details</string>
+    <string name="paid_salary">Paid Salary</string>
+    <string name="pala_jathi">Pala Jathi</string>
+    <string name="panai_maram">Panai maram</string>
+    <string name="pay">Pay</string>
+    <string name="permission_title">Allow GK Bricks to enjoy full functionalities</string>
+    <string name="please_add_photo">Please Add Photo</string>
+    <string name="project_id" translatable="false">gk-bricks</string>
+    <string name="puliya_maram">Puliya maram</string>
+    <string name="pushed">"Pushed: "</string>
+    <string name="received">Received</string>
+    <string name="received_money">Received money</string>
+    <string name="remaining">Remaining</string>
+    <string name="remaining_advance">Remaining advance</string>
+    <string name="remaining_balance">Remaining balance</string>
+    <string name="remaining_salary">Remaining balance</string>
+    <string name="remaining_vendor_balance">Remaining balance</string>
+    <string name="reset_msg">Do you want to Reset the Production Count?</string>
+    <string name="reset_production_count">Reset Production Count</string>
+    <string name="salary">Salary</string>
+    <string name="salary_delete_msg">Do you want to delete the working salary?</string>
+    <string name="salary_delete_title">Delete Salary</string>
+    <string name="sand_loading">Sand Loading</string>
+    <string name="sand_log_details">Sand load details</string>
+    <string name="sand_name_label">Sand name</string>
+    <string name="sand_price_label">Sand amount</string>
+    <string name="saralai_mann">Saralai mann</string>
+    <string name="save">Save</string>
+    <string name="save_failed">Failed to Save ❌</string>
+    <string name="save_production">Save Production Bricks</string>
+    <string name="saved_success">Saved Successfully ✅</string>
+    <string name="select_one_date">Select any one date</string>
+    <string name="semmann">Semmann</string>
+    <string name="sex">Sex:</string>
+    <string name="slogan"><![CDATA[Wire Cut & Box]]></string>
+    <string name="surukki">Surukki</string>
+    <string name="taken">Taken</string>
+    <string name="thekku">Thekku</string>
+    <string name="thennai_maram">Thennai maram</string>
+    <string name="total">"Total: "</string>
+    <string name="total_load_amount">Total load amount</string>
+    <string name="total_production_bricks">Total Production Bricks</string>
+    <string name="total_working">Total Salary</string>
+    <string name="total_working_salary">Total Working Salary</string>
+    <string name="try_again">Please try again</string>
+    <string name="up_to_advance_salary">Advance salary</string>
+    <string name="up_to_working_salary">up to working salary</string>
+    <string name="update_labour_work">Update Labour Work</string>
+    <string name="updated_failed">Failed to update</string>
+    <string name="updated_success">Updated successfully</string>
+    <string name="vandal_mann">Vandal mann</string>
+    <string name="vembu">Vembu</string>
+    <string name="vendor_at_the_time_balance">At the time balance</string>
+    <string name="vendor_now_balance">Remaining balance</string>
+    <string name="view_all_labour">View All Labours</string>
+    <string name="viragu">Viragu</string>
+    <style name="Base.Theme.ProjectQ" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="BottomNavTextActive" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="BottomNavTextInactive" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="CalendarWeekDayStyle">
+        <item name="android:textColor">#FF9800</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="CustomCropImageStyle" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+    </style>
+    <style name="FadingDialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="MyBottomNavStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@drawable/nav_bg</item>
+        <item name="itemBackground">@drawable/nav_selected_bg_selector</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="itemIconTint">@color/nav_icon_tint</item>
+        <item name="itemTextColor">@color/nav_icon_tint</item>
+        <item name="itemRippleColor">@android:color/transparent</item>
+        <item name="labelVisibilityMode">labeled</item>
+        <item name="itemIconSize">24dp</item>
+    </style>
+    <style name="MyTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/box_stroke_color</item>
+        <item name="hintTextColor">#878787</item>
+        <item name="color">@color/red</item>
+    </style>
+    <style name="MyTextInputLayoutStyle1" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/box_stroke_color</item>
+        <item name="hintTextColor">#878787</item>
+        <item name="color">@color/red</item>
+    </style>
+    <style name="Theme.MyApp.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+    <style name="Theme.ProjectQ" parent="Base.Theme.ProjectQ"/>
+</resources>

@@ -1,0 +1,1248 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:143:9-151:20
+	android:grantUriPermissions
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:147:13-47
+	android:authorities
+		INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:145:13-60
+	android:exported
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:146:13-37
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:144:13-62
+manifest
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:2:1-157:12
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:2:1-157:12
+MERGED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:viewbinding:8.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/5d304e5eae805c291050879221d996fa/transformed/viewbinding-8.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1b67d3061577ed9701077428fc07c375/transformed/navigation-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1ac3629c0db38e96076535b84bc4c806/transformed/navigation-common-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/976d8166bd751998b5d5878594ca53d6/transformed/navigation-fragment-2.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dae68b7600126a5a956555dce87ca5fa/transformed/navigation-ui-2.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/kannang/.gradle/caches/8.11.1/transforms/87b11b327b547a6b6aed81f03de70b46/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/kannang/.gradle/caches/8.11.1/transforms/504477da63fc41fe4aa56930bfcb8638/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3a8f36ee206b760857b7d493ffdc1294/transformed/lottie-6.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7608ec8d20fb6a10febae5e5c732ffde/transformed/aws-android-sdk-s3-2.78.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/e4374d8333846ebc99dd116d3670acf5/transformed/PhotoView-2.3.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/kannang/.gradle/caches/8.11.1/transforms/013b1845c65d727d3dda18618dacc1e5/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/kannang/.gradle/caches/8.11.1/transforms/cf45489ddbebc1acccc8e5db10bd65e9/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:2:1-62:12
+MERGED from [androidx.hilt:hilt-work:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b992a4dcf4926472bbb794bdb73cb5ae/transformed/hilt-work-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.49] /Users/kannang/.gradle/caches/8.11.1/transforms/a5051ea010746be65107447732392db2/transformed/hilt-android-2.49/AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/4adae5af512c7ba4ee5f553a48bb7c05/transformed/glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/119c8060adba1da48ceb01f58e957646/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/53a57e3bba38a5c8e1f9fc1c3a3d4b1a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c2559fa806ea3772ed13715cc26488c0/transformed/play-services-appset-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a62929ce0d07cdde5f943dcd58578721/transformed/play-services-cronet-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c2c0158b4a8ca86ae629ab6f3c0bfe39/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/98ed7af5308a275ef3367def1787f526/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/0d736f6f7e821bc80e621e42636e5b73/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/77f176a351ea382e1a36f9c24bfeea6e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:17:1-145:12
+MERGED from [com.github.parse-community:ParseLiveQuery-Android:1.2.2] /Users/kannang/.gradle/caches/8.11.1/transforms/c27f76b1864a62d36449e687d069e53c/transformed/ParseLiveQuery-Android-1.2.2/AndroidManifest.xml:10:1-19:12
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:10:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/209a5110d7e9815452e0cdb9810aa647/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/1ec513416e65d2b5034b88143f524f31/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/46e65c237dfec224c0aa152153a2fe8f/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/kannang/.gradle/caches/8.11.1/transforms/1edb6ac7710825bc53f3888956d2b2aa/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/58ee3dc8ff405f753d7ea0140397bade/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/be7e97bfcf66f7b953d2ee58c7d904c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/45e2bcfe861124ac9eb5e188a4d27101/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b070ba56c185ac3f391ea2809e9fdb5a/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.14.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c9051e6105fe23cb9deb2af1c1add197/transformed/webkit-1.14.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/e44b9731c27e19ee1c965038996b5185/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/6ee97991be08f884bb0fe8eeb181a58c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b0fe0c20dee2d4b79a3fa4df0802b0af/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/d5db33009c4c5ae07bbcdb7445cb1cc9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/26daeedc2425ffed54dbbf998b560145/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a5586a485acec340e192cda0a590c0f6/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/2584e0e06580700db7fd8527e3aa8150/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/d159f154bc9f0ab666d267d2af9fa1dd/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/fc18eefe0f7ef57bb0150c1360cac374/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/bfa124dcf9ddc29751feab3f3e107da4/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/9677f35c0679c7e897b83d9aeafba166/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/d838c77c493d55ce2ea10945cd7dace4/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c13c42860122f79d20adaae0ff46f2b9/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/40830e00ab3d1dfed95bbafd1e86bf50/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/f3669ed34fc6c9860cb40de45992410a/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/22639e77c6fe5238e69ebbcb38c501af/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/624a145443ffeb0f3cd18ae94fe24a3b/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/47b4c43bcb5d3cc4a4fc8240ca88cac9/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/07defeca19c5e5d3c54d91713a642419/transformed/datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f788e1d1ffcf297560e39983967dbac7/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.ump:user-messaging-platform:3.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f000cb7fa508c0cdc4a526874334a4b0/transformed/user-messaging-platform-3.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/kannang/.gradle/caches/8.11.1/transforms/89e26f75fe35f94616fc133169bf7958/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1a8d063c0e9db35bc62cbc5263ebf635/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a86438f1c7d54dceaed8f1ac5f8eb532/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/3741028d870330b9b1e4d9c214f2f5b9/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/714541ca94c20d5e70c129dc2f77bb01/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.security:security-crypto-ktx:1.1.0-alpha06] /Users/kannang/.gradle/caches/8.11.1/transforms/397fcd6529839e75e7273093cd4375c9/transformed/security-crypto-ktx-1.1.0-alpha06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/0ad9c97d6a6a998010ce705dd57de449/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/kannang/.gradle/caches/8.11.1/transforms/cd5e25153d70e480dfc56a1976d80359/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5e580f9fd9982a588f7075527e6d2921/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/51bf6352c321a60507c430266af35d53/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /Users/kannang/.gradle/caches/8.11.1/transforms/ce262a798140f549ce3eb7be5e68c851/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/97f98ad5c4a85b16ab52757bbbf658e8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/8264fbc0871976dc3c03b26319074b80/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a5dd424108dfd4b42215d2c5db46b71b/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5ec2e4b52e515c6b28dc1ca0435d9ba1/transformed/shimmer-0.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/4793e91e9868abfd69d408404ad33d90/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9977e8a0f2bb1e3a8b6b9629578fd890/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/kannang/.gradle/caches/8.11.1/transforms/9bbde315112a05cda0024fee817c0685/transformed/firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
+MERGED from [com.amazonaws:aws-android-sdk-kms:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/19084aa2b3f5ff6aeab08b41512bdf97/transformed/aws-android-sdk-kms-2.78.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/kannang/.gradle/caches/8.11.1/transforms/6d0ec9bca6f47682c1d6e5e4f84cdd7e/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7ddf3f7ee117ece2668a714a6a2a7542/transformed/gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/589e405ba4ca8934ff44d45901c76cdd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f20504fe78910529b376241604b72070/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3188b2785caacae6edc0c08d4b7e7b80/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b7aed851e93ac82c54d561aef109d9e0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/2233ad64e9a86b1b2051a4a70de56a59/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/181c6b9674fc0545e69f6f80a6d07875/transformed/sdp-android-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/ba3068c880befce8a92f6f72b7772fb7/transformed/ssp-android-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3c9b526f06db9b39104aa344bbf459f8/transformed/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [org.chromium.net:cronet-api:119.6045.31] /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/AndroidManifest.xml:15:2-22:13
+MERGED from [com.google.dagger:dagger-lint-aar:2.49] /Users/kannang/.gradle/caches/8.11.1/transforms/651da22977b43c6347818ce82a4d4f85/transformed/dagger-lint-aar-2.49/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:7:5-68
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:10:19-57
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:11:5-86
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:11:22-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:16:22-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7608ec8d20fb6a10febae5e5c732ffde/transformed/aws-android-sdk-s3-2.78.0/AndroidManifest.xml:10:5-79
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7608ec8d20fb6a10febae5e5c732ffde/transformed/aws-android-sdk-s3-2.78.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:23:5-79
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:24:5-79
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:18:5-79
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:18:5-79
+MERGED from [org.chromium.net:cronet-api:119.6045.31] /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-api:119.6045.31] /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/AndroidManifest.xml:20:6-79
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:24:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:17:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:17:5-67
+MERGED from [org.chromium.net:cronet-api:119.6045.31] /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-api:119.6045.31] /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/AndroidManifest.xml:19:6-67
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:20:22-74
+uses-permission#android.permission.NEARBY_WIFI_DEVICES
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:21:5-23:58
+	android:usesPermissionFlags
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:22:9-62
+uses-permission#android.permission.MANAGE_USB
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:24:5-26:47
+	tools:ignore
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:25:9-53
+uses-permission#android.permission.TETHER_PRIVILEGED
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:27:5-29:47
+	tools:ignore
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:28:9-60
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:30:5-32:40
+	tools:ignore
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:32:9-37
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:31:9-66
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:33:5-83
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:33:22-80
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:34:5-78
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:34:22-75
+application
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:36:5-155:19
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:36:5-155:19
+MERGED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:20:5-34:19
+MERGED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:20:5-34:19
+MERGED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/kannang/.gradle/caches/8.11.1/transforms/87b11b327b547a6b6aed81f03de70b46/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/kannang/.gradle/caches/8.11.1/transforms/87b11b327b547a6b6aed81f03de70b46/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/kannang/.gradle/caches/8.11.1/transforms/504477da63fc41fe4aa56930bfcb8638/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/kannang/.gradle/caches/8.11.1/transforms/504477da63fc41fe4aa56930bfcb8638/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3a8f36ee206b760857b7d493ffdc1294/transformed/lottie-6.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3a8f36ee206b760857b7d493ffdc1294/transformed/lottie-6.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:53:5-60:19
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:53:5-60:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/53a57e3bba38a5c8e1f9fc1c3a3d4b1a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/53a57e3bba38a5c8e1f9fc1c3a3d4b1a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c2559fa806ea3772ed13715cc26488c0/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c2559fa806ea3772ed13715cc26488c0/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a62929ce0d07cdde5f943dcd58578721/transformed/play-services-cronet-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a62929ce0d07cdde5f943dcd58578721/transformed/play-services-cronet-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c2c0158b4a8ca86ae629ab6f3c0bfe39/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c2c0158b4a8ca86ae629ab6f3c0bfe39/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/98ed7af5308a275ef3367def1787f526/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/98ed7af5308a275ef3367def1787f526/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:28:5-143:19
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:20:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:20:5-20
+MERGED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f788e1d1ffcf297560e39983967dbac7/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f788e1d1ffcf297560e39983967dbac7/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/97f98ad5c4a85b16ab52757bbbf658e8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/97f98ad5c4a85b16ab52757bbbf658e8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:10:5-14:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3c9b526f06db9b39104aa344bbf459f8/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3c9b526f06db9b39104aa344bbf459f8/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+	android:extractNativeLibs
+		INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:44:9-35
+	android:label
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:42:9-41
+	android:fullBackupContent
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:40:9-54
+	android:roundIcon
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:43:9-53
+	tools:targetApi
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:46:9-29
+	android:icon
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:41:9-48
+	android:allowBackup
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:38:9-35
+	android:theme
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:45:9-46
+	android:dataExtractionRules
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:37:9-40
+activity#com.gk.bricks.MainActivity
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:47:9-76:20
+	android:screenOrientation
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:54:13-49
+	android:lockTaskMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:53:13-50
+	android:launchMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:52:13-44
+	android:exported
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:51:13-36
+	android:configChanges
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:49:13-43
+	android:theme
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:55:13-54
+	android:directBootAware
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:48:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:56:13-62:29
+action#android.intent.action.MAIN
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:57:25-66
+category#android.intent.category.HOME
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:59:17-73
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:59:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:60:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:61:27-74
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:64:13-67:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:17-79
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:66:17-78
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:66:25-75
+intent-filter#action:name:android.intent.action.DATE_CHANGED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:68:13-72:29
+action#android.intent.action.TIME_SET
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:17-73
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:25-70
+action#android.intent.action.DATE_CHANGED
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:70:25-74
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:17-81
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:25-78
+intent-filter#action:name:android.intent.action.PHONE_STATE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:73:13-75:29
+	android:priority
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:73:28-48
+action#android.intent.action.PHONE_STATE
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:74:25-73
+activity#com.gk.bricks.ProductionMainActivity
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:78:9-100:20
+	android:screenOrientation
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:85:13-49
+	android:lockTaskMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:84:13-50
+	android:launchMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:83:13-44
+	android:exported
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:82:13-36
+	android:configChanges
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:80:13-43
+	android:theme
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:86:13-54
+	android:directBootAware
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:81:13-44
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:79:13-51
+activity#com.gk.bricks.EmployeeMainActivity
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:102:9-111:20
+	android:screenOrientation
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:109:13-49
+	android:lockTaskMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:108:13-50
+	android:launchMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:107:13-44
+	android:exported
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:106:13-36
+	android:configChanges
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:104:13-43
+	android:theme
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:110:13-54
+	android:directBootAware
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:105:13-44
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:103:13-49
+activity#com.gk.bricks.DeliveryMainActivity
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:113:9-122:20
+	android:screenOrientation
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:120:13-49
+	android:lockTaskMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:119:13-50
+	android:launchMode
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:118:13-44
+	android:exported
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:117:13-36
+	android:configChanges
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:115:13-43
+	android:theme
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:121:13-54
+	android:directBootAware
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:116:13-44
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:114:13-49
+activity#com.canhub.cropper.CropImageActivity
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:124:9-127:45
+MERGED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:31:9-33:39
+MERGED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:31:9-33:39
+	android:exported
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:33:13-36
+	android:theme
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:126:13-56
+	tools:replace
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:127:13-42
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:125:13-64
+receiver#com.gk.bricks.service.DeviceAdmin
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:129:9-141:20
+	android:label
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:133:13-45
+	android:exported
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:132:13-36
+	android:permission
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:134:13-70
+	android:description
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:131:13-59
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:130:13-48
+meta-data#android.app.device_admin
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:135:13-137:56
+	android:resource
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:137:17-53
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:136:17-56
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:138:13-140:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:139:17-82
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:139:25-79
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:148:13-150:54
+	android:resource
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:150:17-51
+	android:name
+		ADDED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:149:17-67
+uses-sdk
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+MERGED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/5d304e5eae805c291050879221d996fa/transformed/viewbinding-8.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/5d304e5eae805c291050879221d996fa/transformed/viewbinding-8.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1b67d3061577ed9701077428fc07c375/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1b67d3061577ed9701077428fc07c375/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1ac3629c0db38e96076535b84bc4c806/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1ac3629c0db38e96076535b84bc4c806/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/976d8166bd751998b5d5878594ca53d6/transformed/navigation-fragment-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/976d8166bd751998b5d5878594ca53d6/transformed/navigation-fragment-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dae68b7600126a5a956555dce87ca5fa/transformed/navigation-ui-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.9.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dae68b7600126a5a956555dce87ca5fa/transformed/navigation-ui-2.9.2/AndroidManifest.xml:20:5-44
+MERGED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.12.0] /Users/kannang/.gradle/caches/8.11.1/transforms/87b11b327b547a6b6aed81f03de70b46/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/kannang/.gradle/caches/8.11.1/transforms/87b11b327b547a6b6aed81f03de70b46/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/kannang/.gradle/caches/8.11.1/transforms/504477da63fc41fe4aa56930bfcb8638/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/kannang/.gradle/caches/8.11.1/transforms/504477da63fc41fe4aa56930bfcb8638/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3a8f36ee206b760857b7d493ffdc1294/transformed/lottie-6.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3a8f36ee206b760857b7d493ffdc1294/transformed/lottie-6.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7608ec8d20fb6a10febae5e5c732ffde/transformed/aws-android-sdk-s3-2.78.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-s3:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7608ec8d20fb6a10febae5e5c732ffde/transformed/aws-android-sdk-s3-2.78.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/e4374d8333846ebc99dd116d3670acf5/transformed/PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/e4374d8333846ebc99dd116d3670acf5/transformed/PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/kannang/.gradle/caches/8.11.1/transforms/013b1845c65d727d3dda18618dacc1e5/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/kannang/.gradle/caches/8.11.1/transforms/013b1845c65d727d3dda18618dacc1e5/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/kannang/.gradle/caches/8.11.1/transforms/cf45489ddbebc1acccc8e5db10bd65e9/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/kannang/.gradle/caches/8.11.1/transforms/cf45489ddbebc1acccc8e5db10bd65e9/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:6:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b992a4dcf4926472bbb794bdb73cb5ae/transformed/hilt-work-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b992a4dcf4926472bbb794bdb73cb5ae/transformed/hilt-work-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.49] /Users/kannang/.gradle/caches/8.11.1/transforms/a5051ea010746be65107447732392db2/transformed/hilt-android-2.49/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.49] /Users/kannang/.gradle/caches/8.11.1/transforms/a5051ea010746be65107447732392db2/transformed/hilt-android-2.49/AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/4adae5af512c7ba4ee5f553a48bb7c05/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/4adae5af512c7ba4ee5f553a48bb7c05/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/119c8060adba1da48ceb01f58e957646/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/119c8060adba1da48ceb01f58e957646/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/53a57e3bba38a5c8e1f9fc1c3a3d4b1a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/53a57e3bba38a5c8e1f9fc1c3a3d4b1a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c2559fa806ea3772ed13715cc26488c0/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c2559fa806ea3772ed13715cc26488c0/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a62929ce0d07cdde5f943dcd58578721/transformed/play-services-cronet-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cronet:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a62929ce0d07cdde5f943dcd58578721/transformed/play-services-cronet-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c2c0158b4a8ca86ae629ab6f3c0bfe39/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c2c0158b4a8ca86ae629ab6f3c0bfe39/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/98ed7af5308a275ef3367def1787f526/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/98ed7af5308a275ef3367def1787f526/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/0d736f6f7e821bc80e621e42636e5b73/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/kannang/.gradle/caches/8.11.1/transforms/0d736f6f7e821bc80e621e42636e5b73/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/77f176a351ea382e1a36f9c24bfeea6e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/77f176a351ea382e1a36f9c24bfeea6e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [com.github.parse-community:ParseLiveQuery-Android:1.2.2] /Users/kannang/.gradle/caches/8.11.1/transforms/c27f76b1864a62d36449e687d069e53c/transformed/ParseLiveQuery-Android-1.2.2/AndroidManifest.xml:15:5-17:41
+MERGED from [com.github.parse-community:ParseLiveQuery-Android:1.2.2] /Users/kannang/.gradle/caches/8.11.1/transforms/c27f76b1864a62d36449e687d069e53c/transformed/ParseLiveQuery-Android-1.2.2/AndroidManifest.xml:15:5-17:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:13:5-15:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:4.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9453d51d7373d30fb378c84ea2a3dfa6/transformed/parse-4.3.0/AndroidManifest.xml:13:5-15:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/209a5110d7e9815452e0cdb9810aa647/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/209a5110d7e9815452e0cdb9810aa647/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/1ec513416e65d2b5034b88143f524f31/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/1ec513416e65d2b5034b88143f524f31/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/46e65c237dfec224c0aa152153a2fe8f/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/46e65c237dfec224c0aa152153a2fe8f/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/kannang/.gradle/caches/8.11.1/transforms/1edb6ac7710825bc53f3888956d2b2aa/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/kannang/.gradle/caches/8.11.1/transforms/1edb6ac7710825bc53f3888956d2b2aa/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/58ee3dc8ff405f753d7ea0140397bade/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/58ee3dc8ff405f753d7ea0140397bade/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/be7e97bfcf66f7b953d2ee58c7d904c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/be7e97bfcf66f7b953d2ee58c7d904c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/45e2bcfe861124ac9eb5e188a4d27101/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/45e2bcfe861124ac9eb5e188a4d27101/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.8.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b070ba56c185ac3f391ea2809e9fdb5a/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b070ba56c185ac3f391ea2809e9fdb5a/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.14.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c9051e6105fe23cb9deb2af1c1add197/transformed/webkit-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.14.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c9051e6105fe23cb9deb2af1c1add197/transformed/webkit-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/e44b9731c27e19ee1c965038996b5185/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/e44b9731c27e19ee1c965038996b5185/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/6ee97991be08f884bb0fe8eeb181a58c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/6ee97991be08f884bb0fe8eeb181a58c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b0fe0c20dee2d4b79a3fa4df0802b0af/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b0fe0c20dee2d4b79a3fa4df0802b0af/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/d5db33009c4c5ae07bbcdb7445cb1cc9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/d5db33009c4c5ae07bbcdb7445cb1cc9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/26daeedc2425ffed54dbbf998b560145/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/26daeedc2425ffed54dbbf998b560145/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a5586a485acec340e192cda0a590c0f6/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a5586a485acec340e192cda0a590c0f6/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/2584e0e06580700db7fd8527e3aa8150/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/2584e0e06580700db7fd8527e3aa8150/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/d159f154bc9f0ab666d267d2af9fa1dd/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/d159f154bc9f0ab666d267d2af9fa1dd/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/fc18eefe0f7ef57bb0150c1360cac374/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/fc18eefe0f7ef57bb0150c1360cac374/transformed/savedstate-ktx-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/bfa124dcf9ddc29751feab3f3e107da4/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/bfa124dcf9ddc29751feab3f3e107da4/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/9677f35c0679c7e897b83d9aeafba166/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/9677f35c0679c7e897b83d9aeafba166/transformed/lifecycle-viewmodel-2.9.1/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/d838c77c493d55ce2ea10945cd7dace4/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/d838c77c493d55ce2ea10945cd7dace4/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c13c42860122f79d20adaae0ff46f2b9/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/c13c42860122f79d20adaae0ff46f2b9/transformed/lifecycle-livedata-core-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/40830e00ab3d1dfed95bbafd1e86bf50/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/40830e00ab3d1dfed95bbafd1e86bf50/transformed/lifecycle-service-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/f3669ed34fc6c9860cb40de45992410a/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/f3669ed34fc6c9860cb40de45992410a/transformed/lifecycle-livedata-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/22639e77c6fe5238e69ebbcb38c501af/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/22639e77c6fe5238e69ebbcb38c501af/transformed/lifecycle-livedata-core-2.9.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/624a145443ffeb0f3cd18ae94fe24a3b/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/624a145443ffeb0f3cd18ae94fe24a3b/transformed/lifecycle-viewmodel-ktx-2.9.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/47b4c43bcb5d3cc4a4fc8240ca88cac9/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/47b4c43bcb5d3cc4a4fc8240ca88cac9/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/07defeca19c5e5d3c54d91713a642419/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/07defeca19c5e5d3c54d91713a642419/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f788e1d1ffcf297560e39983967dbac7/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f788e1d1ffcf297560e39983967dbac7/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:3.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f000cb7fa508c0cdc4a526874334a4b0/transformed/user-messaging-platform-3.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:3.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f000cb7fa508c0cdc4a526874334a4b0/transformed/user-messaging-platform-3.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/kannang/.gradle/caches/8.11.1/transforms/89e26f75fe35f94616fc133169bf7958/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/kannang/.gradle/caches/8.11.1/transforms/89e26f75fe35f94616fc133169bf7958/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1a8d063c0e9db35bc62cbc5263ebf635/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/kannang/.gradle/caches/8.11.1/transforms/1a8d063c0e9db35bc62cbc5263ebf635/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a86438f1c7d54dceaed8f1ac5f8eb532/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a86438f1c7d54dceaed8f1ac5f8eb532/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/3741028d870330b9b1e4d9c214f2f5b9/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/kannang/.gradle/caches/8.11.1/transforms/3741028d870330b9b1e4d9c214f2f5b9/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/714541ca94c20d5e70c129dc2f77bb01/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/714541ca94c20d5e70c129dc2f77bb01/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.security:security-crypto-ktx:1.1.0-alpha06] /Users/kannang/.gradle/caches/8.11.1/transforms/397fcd6529839e75e7273093cd4375c9/transformed/security-crypto-ktx-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto-ktx:1.1.0-alpha06] /Users/kannang/.gradle/caches/8.11.1/transforms/397fcd6529839e75e7273093cd4375c9/transformed/security-crypto-ktx-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/0ad9c97d6a6a998010ce705dd57de449/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/0ad9c97d6a6a998010ce705dd57de449/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/kannang/.gradle/caches/8.11.1/transforms/cd5e25153d70e480dfc56a1976d80359/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/kannang/.gradle/caches/8.11.1/transforms/cd5e25153d70e480dfc56a1976d80359/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5e580f9fd9982a588f7075527e6d2921/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5e580f9fd9982a588f7075527e6d2921/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/51bf6352c321a60507c430266af35d53/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/51bf6352c321a60507c430266af35d53/transformed/tracing-ktx-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /Users/kannang/.gradle/caches/8.11.1/transforms/ce262a798140f549ce3eb7be5e68c851/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /Users/kannang/.gradle/caches/8.11.1/transforms/ce262a798140f549ce3eb7be5e68c851/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/97f98ad5c4a85b16ab52757bbbf658e8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/97f98ad5c4a85b16ab52757bbbf658e8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/8264fbc0871976dc3c03b26319074b80/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/8264fbc0871976dc3c03b26319074b80/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a5dd424108dfd4b42215d2c5db46b71b/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a5dd424108dfd4b42215d2c5db46b71b/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5ec2e4b52e515c6b28dc1ca0435d9ba1/transformed/shimmer-0.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5ec2e4b52e515c6b28dc1ca0435d9ba1/transformed/shimmer-0.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/4793e91e9868abfd69d408404ad33d90/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/4793e91e9868abfd69d408404ad33d90/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9977e8a0f2bb1e3a8b6b9629578fd890/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/9977e8a0f2bb1e3a8b6b9629578fd890/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/kannang/.gradle/caches/8.11.1/transforms/9bbde315112a05cda0024fee817c0685/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/kannang/.gradle/caches/8.11.1/transforms/9bbde315112a05cda0024fee817c0685/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.amazonaws:aws-android-sdk-kms:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/19084aa2b3f5ff6aeab08b41512bdf97/transformed/aws-android-sdk-kms-2.78.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-kms:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/19084aa2b3f5ff6aeab08b41512bdf97/transformed/aws-android-sdk-kms-2.78.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/kannang/.gradle/caches/8.11.1/transforms/6d0ec9bca6f47682c1d6e5e4f84cdd7e/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/kannang/.gradle/caches/8.11.1/transforms/6d0ec9bca6f47682c1d6e5e4f84cdd7e/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7ddf3f7ee117ece2668a714a6a2a7542/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/7ddf3f7ee117ece2668a714a6a2a7542/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/589e405ba4ca8934ff44d45901c76cdd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/589e405ba4ca8934ff44d45901c76cdd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f20504fe78910529b376241604b72070/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kannang/.gradle/caches/8.11.1/transforms/f20504fe78910529b376241604b72070/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3188b2785caacae6edc0c08d4b7e7b80/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3188b2785caacae6edc0c08d4b7e7b80/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b7aed851e93ac82c54d561aef109d9e0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/b7aed851e93ac82c54d561aef109d9e0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/2233ad64e9a86b1b2051a4a70de56a59/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/2233ad64e9a86b1b2051a4a70de56a59/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/181c6b9674fc0545e69f6f80a6d07875/transformed/sdp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/181c6b9674fc0545e69f6f80a6d07875/transformed/sdp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/ba3068c880befce8a92f6f72b7772fb7/transformed/ssp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/ba3068c880befce8a92f6f72b7772fb7/transformed/ssp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3c9b526f06db9b39104aa344bbf459f8/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3c9b526f06db9b39104aa344bbf459f8/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.chromium.net:cronet-api:119.6045.31] /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-api:119.6045.31] /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/AndroidManifest.xml:18:6-75
+MERGED from [com.google.dagger:dagger-lint-aar:2.49] /Users/kannang/.gradle/caches/8.11.1/transforms/651da22977b43c6347818ce82a4d4f85/transformed/dagger-lint-aar-2.49/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.49] /Users/kannang/.gradle/caches/8.11.1/transforms/651da22977b43c6347818ce82a4d4f85/transformed/dagger-lint-aar-2.49/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:7:5-18:15
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:18:5-51:15
+MERGED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:18:5-51:15
+intent#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:8:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:9:13-72
+	android:name
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:9:21-69
+category#android.intent.category.OPENABLE
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:11:23-70
+data
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:19-41
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:15:9-17:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:16:13-73
+	android:name
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:16:21-70
+provider#com.canhub.cropper.CropFileProvider
+ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:21:9-29:20
+	android:grantUriPermissions
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:25:13-47
+	android:authorities
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:23:13-72
+	android:exported
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:22:13-63
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:28:13-60
+uses-permission#android.permission.READ_BASIC_PHONE_STATE
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_ADSERVICES_TOPICS
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:12:22-80
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:13:5-82
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:13:22-79
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:14:22-85
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/53a57e3bba38a5c8e1f9fc1c3a3d4b1a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/53a57e3bba38a5c8e1f9fc1c3a3d4b1a/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:15:22-76
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:21:9-27:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:22:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:24:13-74
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:24:23-71
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:30:9-32:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:31:13-90
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:31:21-87
+intent#action:name:android.intent.action.INSERT+data:mimeType:vnd.android.cursor.dir/event
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:35:9-39:18
+action#android.intent.action.INSERT
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:36:21-64
+intent#action:name:android.intent.action.VIEW+data:scheme:sms
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:40:9-44:18
+intent#action:name:android.intent.action.DIAL+data:path:tel:
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:45:9-49:18
+action#android.intent.action.DIAL
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:46:13-65
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:46:21-62
+activity#com.google.android.libraries.ads.mobile.sdk.common.AdActivity
+ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:54:9-59:43
+	android:exported
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:59:13-40
+	android:configChanges
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:56:13-122
+	android:theme
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:58:13-61
+	android:name
+		ADDED from [com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:55:13-89
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:28:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:27:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:29:17-117
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:26:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:106:13-108:29
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:117:25-76
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:140:25-85
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.gk.bricks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.gk.bricks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+uses-library#org.apache.http.legacy
+ADDED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:11:9-13:40
+	android:required
+		ADDED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:12:13-50

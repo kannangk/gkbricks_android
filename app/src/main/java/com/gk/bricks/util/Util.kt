@@ -216,6 +216,11 @@ fun sandItemMap(mContext:Context) = hashMapOf(
     "Mann" to mContext.getString(R.string.mann),
 )
 
+fun bricksItemMap(mContext:Context) = hashMapOf(
+    "Bricks" to mContext.getString(R.string.brick),
+    "Surukki" to mContext.getString(R.string.surukki),
+)
+
 
 
 

@@ -1,0 +1,754 @@
+[
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_tower_60_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/tower_60_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_curved_new_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/curved_new_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_vendor_paid_details.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_vendor_paid_details.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_item_production.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/item_production.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_calender_plus.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_calender_plus.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/color_box_tint_color.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/color/box_tint_color.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_nibav_logo_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/nibav_logo_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_add_vendor_payment.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_add_vendor_payment.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_static_floor_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/static_floor_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_settings_option_default.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/settings_option_default.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_chamber_individual_data.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_full_radius_alpha_50_dr.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/full_radius_alpha_50_dr.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_back_arrow_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/back_arrow_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/raw_loading_lt.json.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/raw/loading_lt.json"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_selected_header_default.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/selected_header_default.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_battery_full_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/battery_full_ic.xml"
+    },
+    {
+        "merged": "com.gk.bricks.app-debug-73:/layout_fragment_chamber_unloading_list.xml.flat",
+        "source": "com.gk.bricks.app-main-75:/layout/fragment_chamber_unloading_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_pending.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_pending.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_app_background_img.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/app_background_img.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_confirmation.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_confirmation.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_production_history.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_production_history.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_selected_header_focus.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/selected_header_focus.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_blue_battery_80_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/blue_battery_80_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_click_effect.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/click_effect.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_settings.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_splash_screen.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_oval_no_color_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/oval_no_color_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_gk_logo_padded.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/gk_logo_padded.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_nav_selected_bg_selector.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/nav_selected_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_setting_item_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/setting_item_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_activity_main.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_vendor_individual_data.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_home_select_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/home_select_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_rupees.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_rupees.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_over_load_error_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/over_load_error_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_employee_home.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_employee_home.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_sim_tower_1.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/sim_tower_1.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_chamber_unload_logs_add.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_unload_logs_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/anim_slide_in_left.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_battery_20_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/battery_20_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_init_bg.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/init_bg.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/xml_backup_rules.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_tower_80_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/tower_80_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_q_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/q_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_vendor_log_list_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/vendor_log_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_bricks.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_bricks.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_emp_list_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/emp_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_nav_alarm_bg_img.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/nav_alarm_bg_img.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_floor_item_ll.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/floor_item_ll.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_vendor_logs_add.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_logs_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_emp_list.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_emp_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_employee_add.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_employee_add.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_nav_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/nav_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_add_chamber_loading.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_add_chamber_loading.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_chamber_unloading_individual_data.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_unloading_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_labour_work.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_labour_work.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/anim_slide_in_right.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_close.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_delivery_chamber_loading.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_delivery_chamber_loading.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_chamber_list.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_rounded_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_progress_horizontal.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/progress_horizontal.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_logo_with_out_bg.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/logo_with_out_bg.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_blue_battery_10_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/blue_battery_10_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_employee_add.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_employee_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ripple_effect.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ripple_effect.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_activity_production.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_production.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_battery_80_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/battery_80_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_chamber_unloading_log_list_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_unloading_log_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_add_production_bricks.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_add_production_bricks.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_setting_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/setting_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_done.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_done.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/navigation_employee_nav_graph.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/navigation/employee_nav_graph.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_employee_group.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_employee_group.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_chamber_unloading_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_unloading_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_vendor_load_details.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_vendor_load_details.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/menu_nav_menu.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_salary_update.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_salary_update.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_vendor_list_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/vendor_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_emp_individual_data.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_emp_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_hotspot.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/hotspot.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_truck.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_truck.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_gk_logo_new_bg.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/gk_logo_new_bg.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_floor_counter.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/floor_counter.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_blue_battery_20_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/blue_battery_20_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_profile.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/xml_file_paths.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_light_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/light_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dropdown_item.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/anim_slide_out_right.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_tick.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_tick.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_add.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_delivery_home.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_delivery_home.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_delivery_firewood_loading.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_delivery_firewood_loading.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_chamber_log_list_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_log_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_frame_ic.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/frame_ic.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_capture_icon.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_capture_icon.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_download.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_connected_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/connected_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_delivery_chamber_unloading.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_delivery_chamber_unloading.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_log.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_log.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_emp_unblock.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_emp_unblock.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_blue_battery_40_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/blue_battery_40_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/color_calendar_weekday_text_color.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/color/calendar_weekday_text_color.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_sim_tower_3.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/sim_tower_3.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_tower_20_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/tower_20_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_emp_paid_details.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_emp_paid_details.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_document_popup.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_document_popup.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_battery_10_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/battery_10_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/font_sf_pro_display_medium.OTF.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/font/sf_pro_display_medium.OTF"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_emp_work_update_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/emp_work_update_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_restart.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/restart.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_no_image.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_no_image.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_calender_minus.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_calender_minus.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_no_tower_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/no_tower_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/navigation_main_nav_graph.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/navigation/main_nav_graph.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/font_sf_pro_display_bold.OTF.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/font/sf_pro_display_bold.OTF"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_charging_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/charging_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/font_sf_pro_display_regular.OTF.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/font/sf_pro_display_regular.OTF"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_settings_option_focus.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/settings_option_focus.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/anim_slide_out_left.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/xml_device_admin.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/xml/device_admin.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_gk_logo.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/gk_logo.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_battery_60_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/battery_60_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_fan_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/fan_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_emp_block.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_emp_block.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_q_c_icon.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/q_c_icon.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_selected_header_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/selected_header_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_emergency_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/emergency_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_activity_delivery.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_delivery.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_chamber_loading_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_loading_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/color_box_stroke_color.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/color/box_stroke_color.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_sim_tower_4.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/sim_tower_4.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_rounded_dialog_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/rounded_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_splash_background.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/navigation_delivery_nav_graph.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/navigation/delivery_nav_graph.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_vehicle_list.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_vehicle_list.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_history.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_error_outline_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/error_outline_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_hotspot_disabled.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/hotspot_disabled.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_main_gredient.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/main_gredient.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_setting_list_item.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/setting_list_item.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_sim_tower_5.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/sim_tower_5.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_home.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_tower_40_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/tower_40_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/color_nav_icon_tint.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/color/nav_icon_tint.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_list_arrow.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_list_arrow.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_home_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/home_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_current_floor_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/current_floor_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_selected_settings_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/selected_settings_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_selected_floor_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/selected_floor_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_full_tower_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/full_tower_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_nav_selected_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/nav_selected_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_dialog_profile_popup.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_profile_popup.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_emp_salary_list_row.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/emp_salary_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_home_bottom_nav.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/home_bottom_nav.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_blue_battery_60_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/blue_battery_60_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_employee_details.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_employee_details.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_vendor_add.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_ic_delivery_sand_loading.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/ic_delivery_sand_loading.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_chamber_unloading_list.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_unloading_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_battery_40_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/battery_40_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_blue_battery_full_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/blue_battery_full_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_gk_logo_new.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/gk_logo_new.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_status_bar_bg.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/status_bar_bg.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_activity_employee.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_employee.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_sim_tower_2.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/sim_tower_2.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_emp_work_update.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_emp_work_update.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_vendor_list.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_call_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/call_ic.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/layout_fragment_all_employee.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_all_employee.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_gk_logo_small.png.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/gk_logo_small.png"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-debug-73:/drawable_alarm_ic.xml.flat",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/drawable/alarm_ic.xml"
+    }
+]

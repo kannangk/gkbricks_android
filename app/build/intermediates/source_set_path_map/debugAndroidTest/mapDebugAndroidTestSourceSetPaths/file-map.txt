@@ -1,0 +1,6 @@
+com.gk.bricks.test.app-core-1.6.1-0 /Users/kannang/.gradle/caches/8.11.1/transforms/5a092eb24a25bf7dcd4805ed461d46fa/transformed/core-1.6.1/res
+com.gk.bricks.test.app-tracing-1.2.0-1 /Users/kannang/.gradle/caches/8.11.1/transforms/5e580f9fd9982a588f7075527e6d2921/transformed/tracing-1.2.0/res
+com.gk.bricks.test.app-androidTest-2 /Users/kannang/Research Projects/gk/app/build/generated/res/resValues/androidTest/debug
+com.gk.bricks.test.app-mergeDebugAndroidTestResources-3 /Users/kannang/Research Projects/gk/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.gk.bricks.test.app-mergeDebugAndroidTestResources-4 /Users/kannang/Research Projects/gk/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.gk.bricks.test.app-debugAndroidTest-5 /Users/kannang/Research Projects/gk/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

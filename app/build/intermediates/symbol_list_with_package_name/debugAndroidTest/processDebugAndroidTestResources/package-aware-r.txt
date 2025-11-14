@@ -1,0 +1,3 @@
+com.gk.bricks.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

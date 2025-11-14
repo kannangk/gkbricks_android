@@ -1,0 +1,820 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gk.bricks"
+4    android:versionCode="1"
+5    android:versionName="1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+9        android:targetSdkVersion="35" />
+10
+11    <!-- <uses-permission android:name="android.permission.CAMERA"/> -->
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:7:5-68
+12-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:7:22-65
+13    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+13-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:8:5-79
+13-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:9:5-65
+14-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:9:22-62
+15
+16    <uses-feature android:name="android.hardware.camera" />
+16-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:10:5-60
+16-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:10:19-57
+17
+18    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+18-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:11:5-86
+18-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:11:22-83
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:12:5-76
+19-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:12:22-73
+20    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+20-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:13:5-76
+20-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:13:22-73
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:14:5-79
+21-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:14:22-76
+22    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+22-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:15:5-81
+22-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:15:22-78
+23    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+23-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:16:5-73
+23-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:16:22-70
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:17:5-79
+24-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:17:22-76
+25    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+25-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:18:5-79
+25-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:18:22-76
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:19:5-67
+26-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:19:22-64
+27    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+27-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:20:5-77
+27-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:20:22-74
+28    <uses-permission
+28-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:21:5-23:58
+29        android:name="android.permission.NEARBY_WIFI_DEVICES"
+29-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:22:9-62
+30        android:usesPermissionFlags="neverForLocation" />
+30-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:23:9-55
+31    <uses-permission android:name="android.permission.MANAGE_USB" />
+31-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:24:5-26:47
+31-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:25:9-53
+32    <uses-permission android:name="android.permission.TETHER_PRIVILEGED" />
+32-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:27:5-29:47
+32-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:28:9-60
+33    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+33-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:30:5-32:40
+33-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:31:9-66
+34    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+34-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:33:5-83
+34-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:33:22-80
+35    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+35-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:34:5-78
+35-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:34:22-75
+36
+37    <queries>
+37-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:7:5-18:15
+38        <intent>
+38-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:8:9-14:18
+39            <action android:name="android.intent.action.GET_CONTENT" />
+39-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:9:13-72
+39-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:9:21-69
+40
+41            <category android:name="android.intent.category.OPENABLE" />
+41-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:11:13-73
+41-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:11:23-70
+42
+43            <data android:mimeType="*/*" />
+43-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:13-44
+43-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:19-41
+44        </intent>
+45        <intent>
+45-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:15:9-17:18
+46            <action android:name="android.media.action.IMAGE_CAPTURE" />
+46-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:16:13-73
+46-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:16:21-70
+47        </intent>
+48        <!-- For browser content -->
+49        <intent>
+49-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:21:9-27:18
+50            <action android:name="android.intent.action.VIEW" />
+50-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:22:13-65
+50-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:22:21-62
+51
+52            <category android:name="android.intent.category.BROWSABLE" />
+52-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:24:13-74
+52-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:24:23-71
+53
+54            <data android:scheme="https" />
+54-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:13-44
+55        </intent> <!-- End of browser content -->
+56        <!-- For CustomTabsService -->
+57        <intent>
+57-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:30:9-32:18
+58            <action android:name="android.support.customtabs.action.CustomTabsService" />
+58-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:31:13-90
+58-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:31:21-87
+59        </intent> <!-- End of CustomTabsService -->
+60        <!-- For MRAID capabilities -->
+61        <intent>
+61-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:35:9-39:18
+62            <action android:name="android.intent.action.INSERT" />
+62-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:36:13-67
+62-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:36:21-64
+63
+64            <data android:mimeType="vnd.android.cursor.dir/event" />
+64-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:13-44
+64-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:19-41
+65        </intent>
+66        <intent>
+66-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:40:9-44:18
+67            <action android:name="android.intent.action.VIEW" />
+67-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:22:13-65
+67-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:22:21-62
+68
+69            <data android:scheme="sms" />
+69-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:13-44
+70        </intent>
+71        <intent>
+71-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:45:9-49:18
+72            <action android:name="android.intent.action.DIAL" />
+72-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:46:13-65
+72-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:46:21-62
+73
+74            <data android:path="tel:" />
+74-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:13:13-44
+75        </intent>
+76    </queries>
+77
+78    <uses-permission android:name="android.permission.READ_BASIC_PHONE_STATE" />
+78-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:11:5-81
+78-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:11:22-78
+79    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_TOPICS" />
+79-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:12:5-83
+79-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:12:22-80
+80    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+80-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:13:5-82
+80-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:13:22-79
+81    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+81-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:14:5-88
+81-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:14:22-85
+82    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+82-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:15:5-79
+82-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:15:22-76
+83    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+83-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:25:5-81
+83-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:25:22-78
+84    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+84-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:26:5-77
+84-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:26:22-74
+85
+86    <permission
+86-->[androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+87        android:name="com.gk.bricks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+87-->[androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+88        android:protectionLevel="signature" />
+88-->[androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+89
+90    <uses-permission android:name="com.gk.bricks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+90-->[androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+90-->[androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+91
+92    <application
+92-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:36:5-155:19
+93        android:name="com.gk.bricks.BaseApplication"
+93-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:37:9-40
+94        android:allowBackup="true"
+94-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:38:9-35
+95        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+95-->[androidx.core:core:1.16.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+96        android:dataExtractionRules="@xml/data_extraction_rules"
+96-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:39:9-65
+97        android:debuggable="true"
+98        android:extractNativeLibs="false"
+99        android:fullBackupContent="@xml/backup_rules"
+99-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:40:9-54
+100        android:icon="@drawable/gk_logo_new_bg"
+100-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:41:9-48
+101        android:label="@string/app_name"
+101-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:42:9-41
+102        android:roundIcon="@drawable/gk_logo_new_bg"
+102-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:43:9-53
+103        android:supportsRtl="true"
+103-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:44:9-35
+104        android:theme="@style/Theme.ProjectQ" >
+104-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:45:9-46
+105        <activity
+105-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:47:9-76:20
+106            android:name="com.gk.bricks.MainActivity"
+106-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:48:13-41
+107            android:configChanges="uiMode"
+107-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:49:13-43
+108            android:directBootAware="false"
+108-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:50:13-44
+109            android:exported="true"
+109-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:51:13-36
+110            android:launchMode="singleTask"
+110-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:52:13-44
+111            android:lockTaskMode="if_whitelisted"
+111-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:53:13-50
+112            android:screenOrientation="portrait"
+112-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:54:13-49
+113            android:theme="@style/Theme.MyApp.Splash" >
+113-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:55:13-54
+114            <intent-filter>
+114-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:56:13-62:29
+115                <action android:name="android.intent.action.MAIN" />
+115-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:57:17-69
+115-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:57:25-66
+116
+117                <category android:name="android.intent.category.HOME" />
+117-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:59:17-73
+117-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:59:27-70
+118                <category android:name="android.intent.category.DEFAULT" />
+118-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:60:17-76
+118-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:60:27-73
+119                <category android:name="android.intent.category.LAUNCHER" />
+119-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:61:17-77
+119-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:61:27-74
+120            </intent-filter>
+121            <intent-filter>
+121-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:64:13-67:29
+122                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+122-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:17-79
+122-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:25-76
+123                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+123-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:66:17-78
+123-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:66:25-75
+124            </intent-filter>
+125            <intent-filter>
+125-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:68:13-72:29
+126                <action android:name="android.intent.action.TIME_SET" />
+126-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:17-73
+126-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:25-70
+127                <action android:name="android.intent.action.DATE_CHANGED" />
+127-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:70:17-77
+127-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:70:25-74
+128                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+128-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:17-81
+128-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:25-78
+129            </intent-filter>
+130            <intent-filter android:priority="0" >
+130-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:73:13-75:29
+130-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:73:28-48
+131                <action android:name="android.intent.action.PHONE_STATE" />
+131-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:74:17-76
+131-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:74:25-73
+132            </intent-filter>
+133        </activity>
+134        <activity
+134-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:78:9-100:20
+135            android:name="com.gk.bricks.ProductionMainActivity"
+135-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:79:13-51
+136            android:configChanges="uiMode"
+136-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:80:13-43
+137            android:directBootAware="false"
+137-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:81:13-44
+138            android:exported="true"
+138-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:82:13-36
+139            android:launchMode="singleTask"
+139-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:83:13-44
+140            android:lockTaskMode="if_whitelisted"
+140-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:84:13-50
+141            android:screenOrientation="portrait"
+141-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:85:13-49
+142            android:theme="@style/Theme.MyApp.Splash" >
+142-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:86:13-54
+143            <intent-filter>
+143-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:64:13-67:29
+144                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+144-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:17-79
+144-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:25-76
+145                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+145-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:66:17-78
+145-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:66:25-75
+146            </intent-filter>
+147            <intent-filter>
+147-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:68:13-72:29
+148                <action android:name="android.intent.action.TIME_SET" />
+148-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:17-73
+148-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:25-70
+149                <action android:name="android.intent.action.DATE_CHANGED" />
+149-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:70:17-77
+149-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:70:25-74
+150                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+150-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:17-81
+150-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:25-78
+151            </intent-filter>
+152            <intent-filter android:priority="0" >
+152-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:73:13-75:29
+152-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:73:28-48
+153                <action android:name="android.intent.action.PHONE_STATE" />
+153-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:74:17-76
+153-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:74:25-73
+154            </intent-filter>
+155        </activity>
+156        <activity
+156-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:102:9-111:20
+157            android:name="com.gk.bricks.EmployeeMainActivity"
+157-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:103:13-49
+158            android:configChanges="uiMode"
+158-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:104:13-43
+159            android:directBootAware="false"
+159-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:105:13-44
+160            android:exported="true"
+160-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:106:13-36
+161            android:launchMode="singleTask"
+161-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:107:13-44
+162            android:lockTaskMode="if_whitelisted"
+162-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:108:13-50
+163            android:screenOrientation="portrait"
+163-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:109:13-49
+164            android:theme="@style/Theme.MyApp.Splash" >
+164-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:110:13-54
+165        </activity>
+166        <activity
+166-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:113:9-122:20
+167            android:name="com.gk.bricks.DeliveryMainActivity"
+167-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:114:13-49
+168            android:configChanges="uiMode"
+168-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:115:13-43
+169            android:directBootAware="false"
+169-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:116:13-44
+170            android:exported="true"
+170-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:117:13-36
+171            android:launchMode="singleTask"
+171-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:118:13-44
+172            android:lockTaskMode="if_whitelisted"
+172-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:119:13-50
+173            android:screenOrientation="portrait"
+173-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:120:13-49
+174            android:theme="@style/Theme.MyApp.Splash" >
+174-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:121:13-54
+175        </activity>
+176        <activity
+176-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:124:9-127:45
+177            android:name="com.canhub.cropper.CropImageActivity"
+177-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:125:13-64
+178            android:exported="true"
+178-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:33:13-36
+179            android:theme="@style/CustomCropImageStyle" />
+179-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:126:13-56
+180
+181        <receiver
+181-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:129:9-141:20
+182            android:name="com.gk.bricks.service.DeviceAdmin"
+182-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:130:13-48
+183            android:description="@string/permission_title"
+183-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:131:13-59
+184            android:exported="true"
+184-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:132:13-36
+185            android:label="@string/app_name"
+185-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:133:13-45
+186            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+186-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:134:13-70
+187            <meta-data
+187-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:135:13-137:56
+188                android:name="android.app.device_admin"
+188-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:136:17-56
+189                android:resource="@xml/device_admin" />
+189-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:137:17-53
+190
+191            <intent-filter>
+191-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:138:13-140:29
+192                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+192-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:139:17-82
+192-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:139:25-79
+193            </intent-filter>
+194        </receiver>
+195
+196        <provider
+197            android:name="androidx.core.content.FileProvider"
+197-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:144:13-62
+198            android:authorities="com.gk.bricks.provider"
+198-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:145:13-60
+199            android:exported="false"
+199-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:146:13-37
+200            android:grantUriPermissions="true" >
+200-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:147:13-47
+201            <meta-data
+201-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:148:13-150:54
+202                android:name="android.support.FILE_PROVIDER_PATHS"
+202-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:149:17-67
+203                android:resource="@xml/file_paths" />
+203-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:150:17-51
+204        </provider>
+205        <provider
+205-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:21:9-29:20
+206            android:name="com.canhub.cropper.CropFileProvider"
+206-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:22:13-63
+207            android:authorities="com.gk.bricks.cropper.fileprovider"
+207-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:23:13-72
+208            android:exported="false"
+208-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:24:13-37
+209            android:grantUriPermissions="true" >
+209-->[com.vanniktech:android-image-cropper:4.6.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/AndroidManifest.xml:25:13-47
+210            <meta-data
+210-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:148:13-150:54
+211                android:name="android.support.FILE_PROVIDER_PATHS"
+211-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:149:17-67
+212                android:resource="@xml/library_file_paths" />
+212-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:150:17-51
+213        </provider>
+214
+215        <activity
+215-->[com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:27:9-29:72
+216            android:name="com.karumi.dexter.DexterActivity"
+216-->[com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:28:13-60
+217            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+217-->[com.karumi:dexter:6.2.3] /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/AndroidManifest.xml:29:13-69
+218        <activity
+218-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:54:9-59:43
+219            android:name="com.google.android.libraries.ads.mobile.sdk.common.AdActivity"
+219-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:55:13-89
+220            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+220-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:56:13-122
+221            android:exported="false"
+221-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:57:13-37
+222            android:theme="@android:style/Theme.Translucent" />
+222-->[com.google.android.libraries.ads.mobile.sdk:ads-mobile-sdk:0.17.0-alpha02] /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/AndroidManifest.xml:58:13-61
+223
+224        <service
+224-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:26:9-35:19
+225            android:name="com.google.firebase.components.ComponentDiscoveryService"
+225-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:27:13-84
+226            android:directBootAware="true"
+226-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+227            android:exported="false" >
+227-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:28:13-37
+228            <meta-data
+228-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:29:13-31:85
+229                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+229-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:30:17-120
+230                android:value="com.google.firebase.components.ComponentRegistrar" />
+230-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:31:17-82
+231            <meta-data
+231-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:32:13-34:85
+232                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+232-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:33:17-109
+233                android:value="com.google.firebase.components.ComponentRegistrar" />
+233-->[com.google.firebase:firebase-database:20.3.1] /Users/kannang/.gradle/caches/8.11.1/transforms/933b71bce9fd0adc3f8931acb94614ea/transformed/firebase-database-20.3.1/AndroidManifest.xml:34:17-82
+234            <meta-data
+234-->[com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:30:13-32:85
+235                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+235-->[com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:31:17-118
+236                android:value="com.google.firebase.components.ComponentRegistrar" />
+236-->[com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:32:17-82
+237            <meta-data
+237-->[com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:33:13-35:85
+238                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+238-->[com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:34:17-107
+239                android:value="com.google.firebase.components.ComponentRegistrar" />
+239-->[com.google.firebase:firebase-storage:20.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/5020cf8e8d7a16c0becfed6a7af82eda/transformed/firebase-storage-20.3.0/AndroidManifest.xml:35:17-82
+240            <meta-data
+240-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:25:13-27:85
+241                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+241-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:26:17-120
+242                android:value="com.google.firebase.components.ComponentRegistrar" />
+242-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:27:17-82
+243            <meta-data
+243-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:28:13-30:85
+244                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+244-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:29:17-117
+245                android:value="com.google.firebase.components.ComponentRegistrar" />
+245-->[com.google.firebase:firebase-appcheck:17.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/a93d85f2dc009c8d6430fcbc803f6189/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml:30:17-82
+246            <meta-data
+246-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+247                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+247-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+248                android:value="com.google.firebase.components.ComponentRegistrar" />
+248-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/a5074a8626c4a15bf30d0a483f8b0cc8/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+249            <meta-data
+249-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+250                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+250-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+251                android:value="com.google.firebase.components.ComponentRegistrar" />
+251-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+252        </service>
+253
+254        <provider
+254-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+255            android:name="com.google.firebase.provider.FirebaseInitProvider"
+255-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+256            android:authorities="com.gk.bricks.firebaseinitprovider"
+256-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+257            android:directBootAware="true"
+257-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+258            android:exported="false"
+258-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+259            android:initOrder="100" />
+259-->[com.google.firebase:firebase-common:20.4.2] /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+260
+261        <activity
+261-->[com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+262            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+262-->[com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+263            android:exported="false"
+263-->[com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+264            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+264-->[com.google.android.gms:play-services-base:18.1.0] /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+265
+266        <provider
+266-->[androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+267            android:name="androidx.startup.InitializationProvider"
+267-->[androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+268            android:authorities="com.gk.bricks.androidx-startup"
+268-->[androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+269            android:exported="false" >
+269-->[androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+270            <meta-data
+270-->[androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+271                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+271-->[androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+272                android:value="androidx.startup" />
+272-->[androidx.emoji2:emoji2:1.3.0] /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+273            <meta-data
+273-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:34:13-36:52
+274                android:name="androidx.work.WorkManagerInitializer"
+274-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:35:17-68
+275                android:value="androidx.startup" />
+275-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:36:17-49
+276            <meta-data
+276-->[androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:29:13-31:52
+277                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+277-->[androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:30:17-78
+278                android:value="androidx.startup" />
+278-->[androidx.lifecycle:lifecycle-process:2.9.1] /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/AndroidManifest.xml:31:17-49
+279            <meta-data
+279-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+280                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+280-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+281                android:value="androidx.startup" />
+281-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+282        </provider>
+283
+284        <service
+284-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:39:9-45:35
+285            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+285-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:40:13-88
+286            android:directBootAware="false"
+286-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:41:13-44
+287            android:enabled="@bool/enable_system_alarm_service_default"
+287-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:42:13-72
+288            android:exported="false" />
+288-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:43:13-37
+289        <service
+289-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:46:9-52:35
+290            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+290-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:47:13-84
+291            android:directBootAware="false"
+291-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:48:13-44
+292            android:enabled="@bool/enable_system_job_service_default"
+292-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:49:13-70
+293            android:exported="true"
+293-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:50:13-36
+294            android:permission="android.permission.BIND_JOB_SERVICE" />
+294-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:51:13-69
+295        <service
+295-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:53:9-59:35
+296            android:name="androidx.work.impl.foreground.SystemForegroundService"
+296-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:54:13-81
+297            android:directBootAware="false"
+297-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:55:13-44
+298            android:enabled="@bool/enable_system_foreground_service_default"
+298-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:56:13-77
+299            android:exported="false" />
+299-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:57:13-37
+300
+301        <receiver
+301-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:61:9-66:35
+302            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+302-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:62:13-88
+303            android:directBootAware="false"
+303-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:63:13-44
+304            android:enabled="true"
+304-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:64:13-35
+305            android:exported="false" />
+305-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:65:13-37
+306        <receiver
+306-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:67:9-77:20
+307            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+307-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:68:13-106
+308            android:directBootAware="false"
+308-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:69:13-44
+309            android:enabled="false"
+309-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:70:13-36
+310            android:exported="false" >
+310-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:71:13-37
+311            <intent-filter>
+311-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:73:13-76:29
+312                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+312-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:74:17-87
+312-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:74:25-84
+313                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+313-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:75:17-90
+313-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:75:25-87
+314            </intent-filter>
+315        </receiver>
+316        <receiver
+316-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:78:9-88:20
+317            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+317-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:79:13-104
+318            android:directBootAware="false"
+318-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:80:13-44
+319            android:enabled="false"
+319-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:81:13-36
+320            android:exported="false" >
+320-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:82:13-37
+321            <intent-filter>
+321-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:84:13-87:29
+322                <action android:name="android.intent.action.BATTERY_OKAY" />
+322-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:85:17-77
+322-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:85:25-74
+323                <action android:name="android.intent.action.BATTERY_LOW" />
+323-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:86:17-76
+323-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:86:25-73
+324            </intent-filter>
+325        </receiver>
+326        <receiver
+326-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:89:9-99:20
+327            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+327-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:90:13-104
+328            android:directBootAware="false"
+328-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:91:13-44
+329            android:enabled="false"
+329-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:92:13-36
+330            android:exported="false" >
+330-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:93:13-37
+331            <intent-filter>
+331-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:95:13-98:29
+332                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+332-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:96:17-83
+332-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:96:25-80
+333                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+333-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:97:17-82
+333-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:97:25-79
+334            </intent-filter>
+335        </receiver>
+336        <receiver
+336-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:100:9-109:20
+337            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+337-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:101:13-103
+338            android:directBootAware="false"
+338-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:102:13-44
+339            android:enabled="false"
+339-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:103:13-36
+340            android:exported="false" >
+340-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:104:13-37
+341            <intent-filter>
+341-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:106:13-108:29
+342                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+342-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:17-79
+342-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:65:25-76
+343            </intent-filter>
+344        </receiver>
+345        <receiver
+345-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:110:9-121:20
+346            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+346-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:111:13-88
+347            android:directBootAware="false"
+347-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:112:13-44
+348            android:enabled="false"
+348-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:113:13-36
+349            android:exported="false" >
+349-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:114:13-37
+350            <intent-filter>
+350-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:116:13-120:29
+351                <action android:name="android.intent.action.BOOT_COMPLETED" />
+351-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:117:17-79
+351-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:117:25-76
+352                <action android:name="android.intent.action.TIME_SET" />
+352-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:17-73
+352-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:69:25-70
+353                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+353-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:17-81
+353-->/Users/kannang/Research Projects/gk/app/src/main/AndroidManifest.xml:71:25-78
+354            </intent-filter>
+355        </receiver>
+356        <receiver
+356-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:122:9-131:20
+357            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+357-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:123:13-99
+358            android:directBootAware="false"
+358-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:124:13-44
+359            android:enabled="@bool/enable_system_alarm_service_default"
+359-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:125:13-72
+360            android:exported="false" >
+360-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:126:13-37
+361            <intent-filter>
+361-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:128:13-130:29
+362                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+362-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:129:17-98
+362-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:129:25-95
+363            </intent-filter>
+364        </receiver>
+365        <receiver
+365-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:132:9-142:20
+366            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+366-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:133:13-78
+367            android:directBootAware="false"
+367-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:134:13-44
+368            android:enabled="true"
+368-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:135:13-35
+369            android:exported="true"
+369-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:136:13-36
+370            android:permission="android.permission.DUMP" >
+370-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:137:13-57
+371            <intent-filter>
+371-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:139:13-141:29
+372                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+372-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:140:17-88
+372-->[androidx.work:work-runtime:2.10.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/AndroidManifest.xml:140:25-85
+373            </intent-filter>
+374        </receiver>
+375
+376        <uses-library
+376-->[androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+377            android:name="androidx.window.extensions"
+377-->[androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+378            android:required="false" />
+378-->[androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+379        <uses-library
+379-->[androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+380            android:name="androidx.window.sidecar"
+380-->[androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+381            android:required="false" />
+381-->[androidx.window:window:1.0.0] /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+382
+383        <service
+383-->[androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+384            android:name="androidx.room.MultiInstanceInvalidationService"
+384-->[androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+385            android:directBootAware="true"
+385-->[androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+386            android:exported="false" />
+386-->[androidx.room:room-runtime:2.6.1] /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+387
+388        <uses-library
+388-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:23:9-25:40
+389            android:name="android.ext.adservices"
+389-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:24:13-50
+390            android:required="false" />
+390-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta05] /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/AndroidManifest.xml:25:13-37
+391
+392        <meta-data
+392-->[com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+393            android:name="com.google.android.gms.version"
+393-->[com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+394            android:value="@integer/google_play_services_version" />
+394-->[com.google.android.gms:play-services-basement:18.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+395
+396        <receiver
+396-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+397            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+397-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+398            android:directBootAware="false"
+398-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+399            android:enabled="true"
+399-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+400            android:exported="true"
+400-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+401            android:permission="android.permission.DUMP" >
+401-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+402            <intent-filter>
+402-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+403                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+403-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+403-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+404            </intent-filter>
+405            <intent-filter>
+405-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+406                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+406-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+406-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+407            </intent-filter>
+408            <intent-filter>
+408-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+409                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+409-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+409-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+410            </intent-filter>
+411            <intent-filter>
+411-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+412                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+412-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+412-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+413            </intent-filter>
+414        </receiver>
+415
+416        <uses-library
+416-->[com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:11:9-13:40
+417            android:name="org.apache.http.legacy"
+417-->[com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:12:13-50
+418            android:required="false" />
+418-->[com.amazonaws:aws-android-sdk-core:2.78.0] /Users/kannang/.gradle/caches/8.11.1/transforms/3b2986d3804f12a9b3f3dac07da87689/transformed/aws-android-sdk-core-2.78.0/AndroidManifest.xml:13:13-37
+419    </application>
+420
+421</manifest>

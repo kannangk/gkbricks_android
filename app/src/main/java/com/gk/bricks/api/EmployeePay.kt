@@ -53,6 +53,22 @@ data class VendorLoadLogRequest(
     val documentThree: String,
 )
 
+
+data class CustomerLoadLogRequest(
+    val sessionToken: String,
+    val chamberId: String,
+    val companyName: String,
+    val customerId: String,
+    val customerName: String,
+    val bricksType: String,
+    val paidDate: String,
+    val bricksCount: Int,
+    val paidAmount: Int,
+    val documentOne: String,
+    val documentTwo: String,
+    val documentThree: String,
+)
+
 data class ApiResponse(
     val status: Boolean,
     val message: String

@@ -25,6 +25,7 @@ import com.gk.bricks.R
 import com.gk.bricks.model.parse.BricksUnloadingLogs
 import com.gk.bricks.model.parse.VendorPaidLog
 import com.gk.bricks.util.Constants.VENDOR_FIRE_WOOD_TYPE
+import com.gk.bricks.util.bricksItemMap
 import com.gk.bricks.util.getCommaFormat
 import com.gk.bricks.util.getRupeesFormat
 import kotlinx.coroutines.CoroutineScope
@@ -50,6 +51,7 @@ class ChamberUnloadingLogAdapter(
         val tvName: TextView = view.findViewById(R.id.tvName)
         val tvLoadCount: TextView = view.findViewById(R.id.tvLoadCount)
         val tvReceived: TextView = view.findViewById(R.id.tvReceived)
+        val tvLoadType: TextView = view.findViewById(R.id.tvLoadType)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -65,7 +67,21 @@ class ChamberUnloadingLogAdapter(
 
         holder.tvReceived.text = getRupeesFormat(item.paidAmount)
         holder.tvName.text = item.customerName
-        holder.tvLoadCount.text = getCommaFormat(item.bricksCount)
+
+
+        if(item.bricksCount>0){
+            val itemValues = bricksItemMap(mContext)
+            holder.tvLoadType.text = item.bricksType
+            if (itemValues.contains(item.bricksType)) {
+                holder.tvLoadType.text = itemValues.get(item.bricksType)?:""
+            }
+            holder.tvLoadCount.text = getCommaFormat(item.bricksCount)
+        }else{
+            holder.tvLoadType.text = ""
+            holder.tvLoadCount.text = "-"
+        }
+
+
 
 //        if (item.isPaid) {
 //            holder.tvReceived.text = getRupeesFormat(item.paidAmount)

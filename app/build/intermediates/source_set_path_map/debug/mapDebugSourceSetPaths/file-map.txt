@@ -1,0 +1,76 @@
+com.gk.bricks.app-ads-adservices-1.1.0-beta05-0 /Users/kannang/.gradle/caches/8.11.1/transforms/00f5e3930124feeaf2f43bd427ffc060/transformed/ads-adservices-1.1.0-beta05/res
+com.gk.bricks.app-appcompat-resources-1.7.1-1 /Users/kannang/.gradle/caches/8.11.1/transforms/013b1845c65d727d3dda18618dacc1e5/transformed/appcompat-resources-1.7.1/res
+com.gk.bricks.app-window-1.0.0-2 /Users/kannang/.gradle/caches/8.11.1/transforms/06f7e68b555320d0747bfa6ab61e55a8/transformed/window-1.0.0/res
+com.gk.bricks.app-datastore-1.0.0-3 /Users/kannang/.gradle/caches/8.11.1/transforms/07defeca19c5e5d3c54d91713a642419/transformed/datastore-1.0.0/res
+com.gk.bricks.app-core-viewtree-1.0.0-4 /Users/kannang/.gradle/caches/8.11.1/transforms/0ad9c97d6a6a998010ce705dd57de449/transformed/core-viewtree-1.0.0/res
+com.gk.bricks.app-viewpager2-1.0.0-5 /Users/kannang/.gradle/caches/8.11.1/transforms/119c8060adba1da48ceb01f58e957646/transformed/viewpager2-1.0.0/res
+com.gk.bricks.app-sdp-android-1.1.0-6 /Users/kannang/.gradle/caches/8.11.1/transforms/181c6b9674fc0545e69f6f80a6d07875/transformed/sdp-android-1.1.0/res
+com.gk.bricks.app-fragment-ktx-1.6.2-7 /Users/kannang/.gradle/caches/8.11.1/transforms/1a8d063c0e9db35bc62cbc5263ebf635/transformed/fragment-ktx-1.6.2/res
+com.gk.bricks.app-navigation-common-release-8 /Users/kannang/.gradle/caches/8.11.1/transforms/1ac3629c0db38e96076535b84bc4c806/transformed/navigation-common-release/res
+com.gk.bricks.app-navigation-runtime-release-9 /Users/kannang/.gradle/caches/8.11.1/transforms/1b67d3061577ed9701077428fc07c375/transformed/navigation-runtime-release/res
+com.gk.bricks.app-coordinatorlayout-1.1.0-10 /Users/kannang/.gradle/caches/8.11.1/transforms/1ec513416e65d2b5034b88143f524f31/transformed/coordinatorlayout-1.1.0/res
+com.gk.bricks.app-transition-1.5.0-11 /Users/kannang/.gradle/caches/8.11.1/transforms/1edb6ac7710825bc53f3888956d2b2aa/transformed/transition-1.5.0/res
+com.gk.bricks.app-drawerlayout-1.1.1-12 /Users/kannang/.gradle/caches/8.11.1/transforms/209a5110d7e9815452e0cdb9810aa647/transformed/drawerlayout-1.1.1/res
+com.gk.bricks.app-lifecycle-livedata-core-2.9.1-13 /Users/kannang/.gradle/caches/8.11.1/transforms/22639e77c6fe5238e69ebbcb38c501af/transformed/lifecycle-livedata-core-2.9.1/res
+com.gk.bricks.app-lifecycle-viewmodel-savedstate-release-14 /Users/kannang/.gradle/caches/8.11.1/transforms/2584e0e06580700db7fd8527e3aa8150/transformed/lifecycle-viewmodel-savedstate-release/res
+com.gk.bricks.app-play-services-basement-18.4.0-15 /Users/kannang/.gradle/caches/8.11.1/transforms/27ca46edca4aa3f4abf36407e2501bdd/transformed/play-services-basement-18.4.0/res
+com.gk.bricks.app-activity-1.10.1-16 /Users/kannang/.gradle/caches/8.11.1/transforms/3741028d870330b9b1e4d9c214f2f5b9/transformed/activity-1.10.1/res
+com.gk.bricks.app-lifecycle-process-2.9.1-17 /Users/kannang/.gradle/caches/8.11.1/transforms/38e481dcaefe4e28f073a9bb168e76da/transformed/lifecycle-process-2.9.1/res
+com.gk.bricks.app-security-crypto-ktx-1.1.0-alpha06-18 /Users/kannang/.gradle/caches/8.11.1/transforms/397fcd6529839e75e7273093cd4375c9/transformed/security-crypto-ktx-1.1.0-alpha06/res
+com.gk.bricks.app-core-1.16.0-19 /Users/kannang/.gradle/caches/8.11.1/transforms/3988d65744c6bd20154fa981179b22c2/transformed/core-1.16.0/res
+com.gk.bricks.app-lottie-6.1.0-20 /Users/kannang/.gradle/caches/8.11.1/transforms/3a8f36ee206b760857b7d493ffdc1294/transformed/lottie-6.1.0/res
+com.gk.bricks.app-circleimageview-3.1.0-21 /Users/kannang/.gradle/caches/8.11.1/transforms/3c9b526f06db9b39104aa344bbf459f8/transformed/circleimageview-3.1.0/res
+com.gk.bricks.app-lifecycle-service-2.9.1-22 /Users/kannang/.gradle/caches/8.11.1/transforms/40830e00ab3d1dfed95bbafd1e86bf50/transformed/lifecycle-service-2.9.1/res
+com.gk.bricks.app-slidingpanelayout-1.2.0-23 /Users/kannang/.gradle/caches/8.11.1/transforms/46e65c237dfec224c0aa152153a2fe8f/transformed/slidingpanelayout-1.2.0/res
+com.gk.bricks.app-room-ktx-2.6.1-24 /Users/kannang/.gradle/caches/8.11.1/transforms/47b4c43bcb5d3cc4a4fc8240ca88cac9/transformed/room-ktx-2.6.1/res
+com.gk.bricks.app-glide-4.16.0-25 /Users/kannang/.gradle/caches/8.11.1/transforms/4adae5af512c7ba4ee5f553a48bb7c05/transformed/glide-4.16.0/res
+com.gk.bricks.app-constraintlayout-2.2.1-26 /Users/kannang/.gradle/caches/8.11.1/transforms/504477da63fc41fe4aa56930bfcb8638/transformed/constraintlayout-2.2.1/res
+com.gk.bricks.app-tracing-ktx-1.2.0-27 /Users/kannang/.gradle/caches/8.11.1/transforms/51bf6352c321a60507c430266af35d53/transformed/tracing-ktx-1.2.0/res
+com.gk.bricks.app-tracing-1.2.0-28 /Users/kannang/.gradle/caches/8.11.1/transforms/5e580f9fd9982a588f7075527e6d2921/transformed/tracing-1.2.0/res
+com.gk.bricks.app-shimmer-0.5.0-29 /Users/kannang/.gradle/caches/8.11.1/transforms/5ec2e4b52e515c6b28dc1ca0435d9ba1/transformed/shimmer-0.5.0/res
+com.gk.bricks.app-lifecycle-viewmodel-ktx-2.9.1-30 /Users/kannang/.gradle/caches/8.11.1/transforms/624a145443ffeb0f3cd18ae94fe24a3b/transformed/lifecycle-viewmodel-ktx-2.9.1/res
+com.gk.bricks.app-emoji2-1.3.0-31 /Users/kannang/.gradle/caches/8.11.1/transforms/66b59d478f3c458837cab83cd7747d0a/transformed/emoji2-1.3.0/res
+com.gk.bricks.app-core-ktx-1.16.0-32 /Users/kannang/.gradle/caches/8.11.1/transforms/714541ca94c20d5e70c129dc2f77bb01/transformed/core-ktx-1.16.0/res
+com.gk.bricks.app-emoji2-views-helper-1.3.0-33 /Users/kannang/.gradle/caches/8.11.1/transforms/77f176a351ea382e1a36f9c24bfeea6e/transformed/emoji2-views-helper-1.3.0/res
+com.gk.bricks.app-room-runtime-2.6.1-34 /Users/kannang/.gradle/caches/8.11.1/transforms/7bdc62fa5e9c2a038949c3cbdbe6751c/transformed/room-runtime-2.6.1/res
+com.gk.bricks.app-sqlite-framework-2.4.0-35 /Users/kannang/.gradle/caches/8.11.1/transforms/8264fbc0871976dc3c03b26319074b80/transformed/sqlite-framework-2.4.0/res
+com.gk.bricks.app-material-1.12.0-36 /Users/kannang/.gradle/caches/8.11.1/transforms/87b11b327b547a6b6aed81f03de70b46/transformed/material-1.12.0/res
+com.gk.bricks.app-cronet-api-119.6045.31-37 /Users/kannang/.gradle/caches/8.11.1/transforms/888c942e30cec2d19a77147d0cc258b7/transformed/cronet-api-119.6045.31/res
+com.gk.bricks.app-fragment-1.6.2-38 /Users/kannang/.gradle/caches/8.11.1/transforms/89e26f75fe35f94616fc133169bf7958/transformed/fragment-1.6.2/res
+com.gk.bricks.app-ads-mobile-sdk-0.17.0-alpha02-39 /Users/kannang/.gradle/caches/8.11.1/transforms/8ec7e6a77229aa1697707f6c535e61fc/transformed/ads-mobile-sdk-0.17.0-alpha02/res
+com.gk.bricks.app-navigation-fragment-2.9.2-40 /Users/kannang/.gradle/caches/8.11.1/transforms/976d8166bd751998b5d5878594ca53d6/transformed/navigation-fragment-2.9.2/res
+com.gk.bricks.app-cardview-1.0.0-41 /Users/kannang/.gradle/caches/8.11.1/transforms/9977e8a0f2bb1e3a8b6b9629578fd890/transformed/cardview-1.0.0/res
+com.gk.bricks.app-startup-runtime-1.1.1-42 /Users/kannang/.gradle/caches/8.11.1/transforms/a13b5a5729fbcadb66ebdcfd7b45d8f9/transformed/startup-runtime-1.1.1/res
+com.gk.bricks.app-sqlite-2.4.0-43 /Users/kannang/.gradle/caches/8.11.1/transforms/a5dd424108dfd4b42215d2c5db46b71b/transformed/sqlite-2.4.0/res
+com.gk.bricks.app-play-services-cronet-18.0.1-44 /Users/kannang/.gradle/caches/8.11.1/transforms/a62929ce0d07cdde5f943dcd58578721/transformed/play-services-cronet-18.0.1/res
+com.gk.bricks.app-activity-ktx-1.10.1-45 /Users/kannang/.gradle/caches/8.11.1/transforms/a86438f1c7d54dceaed8f1ac5f8eb532/transformed/activity-ktx-1.10.1/res
+com.gk.bricks.app-browser-1.8.0-46 /Users/kannang/.gradle/caches/8.11.1/transforms/b070ba56c185ac3f391ea2809e9fdb5a/transformed/browser-1.8.0/res
+com.gk.bricks.app-hilt-work-1.2.0-47 /Users/kannang/.gradle/caches/8.11.1/transforms/b992a4dcf4926472bbb794bdb73cb5ae/transformed/hilt-work-1.2.0/res
+com.gk.bricks.app-ssp-android-1.1.0-48 /Users/kannang/.gradle/caches/8.11.1/transforms/ba3068c880befce8a92f6f72b7772fb7/transformed/ssp-android-1.1.0/res
+com.gk.bricks.app-savedstate-release-49 /Users/kannang/.gradle/caches/8.11.1/transforms/bfa124dcf9ddc29751feab3f3e107da4/transformed/savedstate-release/res
+com.gk.bricks.app-lifecycle-livedata-core-ktx-2.9.1-50 /Users/kannang/.gradle/caches/8.11.1/transforms/c13c42860122f79d20adaae0ff46f2b9/transformed/lifecycle-livedata-core-ktx-2.9.1/res
+com.gk.bricks.app-profileinstaller-1.4.0-51 /Users/kannang/.gradle/caches/8.11.1/transforms/c592f37ad7993173ae86e5ae61336e0e/transformed/profileinstaller-1.4.0/res
+com.gk.bricks.app-work-runtime-2.10.0-52 /Users/kannang/.gradle/caches/8.11.1/transforms/c597a5a58df46903286dadf362345fcc/transformed/work-runtime-2.10.0/res
+com.gk.bricks.app-android-image-cropper-4.6.0-53 /Users/kannang/.gradle/caches/8.11.1/transforms/c6c45ec04035a4190ddbb1cbddec8f0c/transformed/android-image-cropper-4.6.0/res
+com.gk.bricks.app-webkit-1.14.0-54 /Users/kannang/.gradle/caches/8.11.1/transforms/c9051e6105fe23cb9deb2af1c1add197/transformed/webkit-1.14.0/res
+com.gk.bricks.app-annotation-experimental-1.4.1-55 /Users/kannang/.gradle/caches/8.11.1/transforms/cd5e25153d70e480dfc56a1976d80359/transformed/annotation-experimental-1.4.1/res
+com.gk.bricks.app-security-crypto-1.1.0-alpha06-56 /Users/kannang/.gradle/caches/8.11.1/transforms/ce262a798140f549ce3eb7be5e68c851/transformed/security-crypto-1.1.0-alpha06/res
+com.gk.bricks.app-appcompat-1.7.1-57 /Users/kannang/.gradle/caches/8.11.1/transforms/cf45489ddbebc1acccc8e5db10bd65e9/transformed/appcompat-1.7.1/res
+com.gk.bricks.app-lifecycle-runtime-release-58 /Users/kannang/.gradle/caches/8.11.1/transforms/d159f154bc9f0ab666d267d2af9fa1dd/transformed/lifecycle-runtime-release/res
+com.gk.bricks.app-lifecycle-viewmodel-release-59 /Users/kannang/.gradle/caches/8.11.1/transforms/d838c77c493d55ce2ea10945cd7dace4/transformed/lifecycle-viewmodel-release/res
+com.gk.bricks.app-navigation-ui-2.9.2-60 /Users/kannang/.gradle/caches/8.11.1/transforms/dae68b7600126a5a956555dce87ca5fa/transformed/navigation-ui-2.9.2/res
+com.gk.bricks.app-firebase-common-20.4.2-61 /Users/kannang/.gradle/caches/8.11.1/transforms/dcae0b6bdb273d5934eb7d31d9c64b36/transformed/firebase-common-20.4.2/res
+com.gk.bricks.app-play-services-base-18.1.0-62 /Users/kannang/.gradle/caches/8.11.1/transforms/de9caad9d5bb58e97b4ceb7a877f0686/transformed/play-services-base-18.1.0/res
+com.gk.bricks.app-dexter-6.2.3-63 /Users/kannang/.gradle/caches/8.11.1/transforms/e29eda31c6184c9ae56ec88e20e9cdcc/transformed/dexter-6.2.3/res
+com.gk.bricks.app-recyclerview-1.1.0-64 /Users/kannang/.gradle/caches/8.11.1/transforms/e44b9731c27e19ee1c965038996b5185/transformed/recyclerview-1.1.0/res
+com.gk.bricks.app-core-runtime-2.2.0-65 /Users/kannang/.gradle/caches/8.11.1/transforms/f20504fe78910529b376241604b72070/transformed/core-runtime-2.2.0/res
+com.gk.bricks.app-lifecycle-livedata-2.9.1-66 /Users/kannang/.gradle/caches/8.11.1/transforms/f3669ed34fc6c9860cb40de45992410a/transformed/lifecycle-livedata-2.9.1/res
+com.gk.bricks.app-savedstate-ktx-1.3.0-67 /Users/kannang/.gradle/caches/8.11.1/transforms/fc18eefe0f7ef57bb0150c1360cac374/transformed/savedstate-ktx-1.3.0/res
+com.gk.bricks.app-pngs-68 /Users/kannang/Research Projects/gk/app/build/generated/res/pngs/debug
+com.gk.bricks.app-res-69 /Users/kannang/Research Projects/gk/app/build/generated/res/processDebugGoogleServices
+com.gk.bricks.app-resValues-70 /Users/kannang/Research Projects/gk/app/build/generated/res/resValues/debug
+com.gk.bricks.app-packageDebugResources-71 /Users/kannang/Research Projects/gk/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.gk.bricks.app-packageDebugResources-72 /Users/kannang/Research Projects/gk/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.gk.bricks.app-debug-73 /Users/kannang/Research Projects/gk/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.gk.bricks.app-debug-74 /Users/kannang/Research Projects/gk/app/src/debug/res
+com.gk.bricks.app-main-75 /Users/kannang/Research Projects/gk/app/src/main/res

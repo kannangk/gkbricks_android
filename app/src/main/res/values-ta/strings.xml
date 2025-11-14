@@ -116,8 +116,13 @@
 
     <string name="remaining">மீதம்</string>
     <string name="taken">எடுக்கப்பட்டது</string>
+    <string name="add_bricks_taken">செங்கல் எடுக்கப்பட்டதை சேர்க்க</string>
     <string name="received">வாங்கியது</string>
     <string name="name">பெயர்</string>
+    <string name="received_money">வாங்கிய பணம்</string>
+    <string name="load_name">லோடு பெயர்</string>
+    <string name="surukki">சுருக்கி</string>
+    <string name="customer_name">வாடிக்கையாளர் பெயர்</string>
 
 
 

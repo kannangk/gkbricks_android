@@ -113,8 +113,13 @@
     <string name="total_load_amount">Total load amount</string>
     <string name="remaining">Remaining</string>
     <string name="taken">Taken</string>
+    <string name="add_bricks_taken">Add bricks taken</string>
     <string name="received">Received</string>
+    <string name="received_money">Received money</string>
     <string name="name">Name</string>
+    <string name="load_name">Load name</string>
+    <string name="surukki">Surukki</string>
+    <string name="customer_name">Customer name</string>
 
 
 </resources>

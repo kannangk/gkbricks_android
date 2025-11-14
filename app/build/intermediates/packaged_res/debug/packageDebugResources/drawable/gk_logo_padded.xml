@@ -1,0 +1,10 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="350dp"
+    android:insetRight="350dp"
+    android:insetTop="350dp"
+    android:insetBottom="350dp">
+
+    <bitmap
+        android:src="@drawable/gk_logo"
+        android:gravity="center" />
+</inset>

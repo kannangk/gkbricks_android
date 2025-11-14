@@ -17,6 +17,7 @@ object Constants {
     const val EMP_PROFILE_S3_PATH = "employee/profile/"
     const val VENDOR_PROFILE_S3_PATH = "vendor/profile/";
     const val VENDOR_DOC_S3_PATH = "vendor/documents/";
+    const val CUSTOMER_DOC_S3_PATH = "customer/documents/";
     const val COMPANY_NAME = "gkbricks_pkm"
     const val UPDATE_FROM = "system"
     const val VENDOR_FIRE_WOOD_TYPE = "FIRE_WOOD"

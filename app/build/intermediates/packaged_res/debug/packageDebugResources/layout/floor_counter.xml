@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_120sdp"
+    android:layout_height="@dimen/_120sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <TextView-->
+<!--        android:id="@+id/currentTextView"-->
+<!--        android:textSize="@dimen/_100sdp"-->
+<!--        android:gravity="center_horizontal|center_vertical"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:textColor="@color/app_primary"-->
+<!--        android:textStyle="bold"-->
+<!--        android:text="G"-->
+<!--        android:layout_marginTop="@dimen/_minus8sdp"-->
+<!--        android:fontFamily="@font/sf_pro_display_regular"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent" />-->
+
+    <TextView
+        android:id="@+id/currentTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:lines="1"
+        android:text="0"
+        android:textColor="@color/gold"
+        android:textStyle="bold"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:layout_marginTop="@dimen/_minus8sdp"
+        android:textSize="@dimen/_100sdp"
+        app:autoSizeTextType="uniform"
+        app:autoSizeMinTextSize="40sp"
+        app:autoSizeMaxTextSize="100sp"
+        app:autoSizeStepGranularity="2sp" />
+
+    <TextView
+        android:id="@+id/nextTextView"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/gold"
+        android:textStyle="bold"
+        app:autoSizeTextType="uniform"
+        android:lines="1"
+        app:autoSizeMinTextSize="40sp"
+        app:autoSizeMaxTextSize="100sp"
+        app:autoSizeStepGranularity="2sp"
+        android:foregroundGravity="center"
+        android:layout_marginTop="@dimen/_minus8sdp"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>

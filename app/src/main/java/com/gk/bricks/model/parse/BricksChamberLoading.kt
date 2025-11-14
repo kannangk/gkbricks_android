@@ -11,6 +11,7 @@ class BricksChamberLoading: ParseObject() {
         val KEY_COMPANY_NAME: String = "companyName"
         val KEY_CHAMBER_CREATE_DATE = "chamberCreateDate"
         val KEY_TOTAL_BRICKS = "totalBricks"
+        val KEY_TOTAL_SURUKKI = "totalSurukki"
         val KEY_TOTAL_PAID_AMOUNT = "totalPaidAmount"
         val KEY_TOTAL_RECEIVED_AMOUNT = "totalReceivedAmount"
         val KEY_TOTAL_TAKEN_BRICKS = "totalTakenBricks"
@@ -34,6 +35,10 @@ class BricksChamberLoading: ParseObject() {
     var totalBricks: Int
         get() = getInt(KEY_TOTAL_BRICKS)
         set(value) = put(KEY_TOTAL_BRICKS, value)
+
+     var totalSurukki: Int
+        get() = getInt(KEY_TOTAL_SURUKKI)
+        set(value) = put(KEY_TOTAL_SURUKKI, value)
 
     var totalPaidAmount: Int
         get() = getInt(KEY_TOTAL_PAID_AMOUNT)

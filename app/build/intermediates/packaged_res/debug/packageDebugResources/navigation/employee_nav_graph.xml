@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/employee_nav_graph"
+    app:startDestination="@id/employeeHomeFragment">
+
+    <fragment
+        android:id="@+id/employeeHomeFragment"
+        android:name="com.gk.bricks.fragment.employee.EmployeeHomeFragment"
+        android:label="EmployeeHomeFragment"
+        tools:layout="@layout/fragment_employee_home"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+        <action
+            android:id="@+id/action_employeeHomeFragment_to_addLabourFragment"
+            app:destination="@id/addLabourFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addLabourFragment"
+        android:name="com.gk.bricks.fragment.employee.AddLabourFragment"
+        android:label="addLabourFragment"
+        tools:layout="@layout/fragment_employee_add"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+    <fragment
+        android:id="@+id/employeeListFragment"
+        android:name="com.gk.bricks.fragment.employee.EmployeeListFragment"
+        android:label="employeeListFragment"
+        tools:layout="@layout/fragment_emp_list"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/employeeWorkUpdateFragment"
+        android:name="com.gk.bricks.fragment.employee.EmployeeWorkUpdateFragment"
+        android:label="employeeWorkUpdateFragment"
+        tools:layout="@layout/fragment_emp_work_update"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/employeeSalaryIndiviualFragment"
+        android:name="com.gk.bricks.fragment.employee.EmployeeSalaryIndiviualFragment"
+        android:label="employeeSalaryIndiviualFragment"
+        tools:layout="@layout/fragment_emp_individual_data"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/allEmployeeListFragment"
+        android:name="com.gk.bricks.fragment.employee.AllEmployeeListFragment"
+        android:label="allEmployeeListFragment"
+        tools:layout="@layout/fragment_all_employee"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+</navigation>

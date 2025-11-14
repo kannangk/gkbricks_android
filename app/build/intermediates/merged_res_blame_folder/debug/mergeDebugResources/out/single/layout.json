@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/item_production.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/item_production.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_production_history.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_production_history.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_vendor_individual_data.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/vendor_list_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/vendor_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/setting_list_item.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/setting_list_item.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/home_bottom_nav.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/home_bottom_nav.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/emp_salary_list_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/emp_salary_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_add_production_bricks.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_add_production_bricks.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_home.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_emp_work_update.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_emp_work_update.xml"
+    },
+    {
+        "merged": "com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_chamber_unloading_list.xml",
+        "source": "com.gk.bricks.app-main-75:/layout/fragment_chamber_unloading_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_employee_home.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_employee_home.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_chamber_individual_data.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_delivery_home.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_delivery_home.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dropdown_item.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_document_popup.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_document_popup.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/floor_item_ll.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/floor_item_ll.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_confirmation.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_confirmation.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_add_vendor_payment.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_add_vendor_payment.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_chamber_unload_logs_add.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_unload_logs_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/emp_list_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/emp_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/vendor_log_list_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/vendor_log_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_settings.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_chamber_unloading_list.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_unloading_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_chamber_unloading_individual_data.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_unloading_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_emp_list.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_emp_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_vendor_paid_details.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_vendor_paid_details.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/chamber_loading_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_loading_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_salary_update.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_salary_update.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/chamber_log_list_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_log_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_vendor_logs_add.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_logs_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_employee_add.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_employee_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/chamber_unloading_log_list_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_unloading_log_list_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/emp_work_update_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/emp_work_update_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_all_employee.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_all_employee.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_emp_individual_data.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_emp_individual_data.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_vendor_add.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_add.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_profile_popup.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_profile_popup.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/activity_main.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/activity_production.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_production.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/activity_delivery.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_delivery.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_chamber_list.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_chamber_list.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_add_chamber_loading.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_add_chamber_loading.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/chamber_unloading_row.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/chamber_unloading_row.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/floor_counter.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/floor_counter.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_emp_paid_details.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_emp_paid_details.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/dialog_vendor_load_details.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/dialog_vendor_load_details.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/activity_employee.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/activity_employee.xml"
+    },
+    {
+        "merged": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-mergeDebugResources-72:/layout/fragment_vendor_list.xml",
+        "source": "/Users/kannang/.gradle/daemon/8.11.1/com.gk.bricks.app-main-75:/layout/fragment_vendor_list.xml"
+    }
+]
