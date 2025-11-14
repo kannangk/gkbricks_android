@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.gk.bricks.fragment.production.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left"
+        >
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.gk.bricks.fragment.production.SettingsFragment"
+        android:label="SettingsFragment"
+        tools:layout="@layout/fragment_settings"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+    <fragment
+        android:id="@+id/alarmFragment"
+        android:name="com.gk.bricks.fragment.production.ProductionHistoryFragment"
+        android:label="AlarmFragment"
+        tools:layout="@layout/fragment_production_history"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+</navigation>

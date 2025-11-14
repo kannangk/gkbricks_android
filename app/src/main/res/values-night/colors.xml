@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="app_primary">#0B1C24</color>
+    <color name="status_bar">#0B1C24</color>
+    <color name="error_red">#FF0051</color>
+    <color name="emp_list_row">#2E3C46</color>
+    <color name="select_floor_color">#757272</color>
+    <color name="lightGrey">#80ACACAC</color>
+    <color name="bg_primary">#07111D</color>
+    <color name="bg_secondary">#0C1926</color>
+    <color name="bg_secondary_50">#800C1926</color>
+    <color name="red">#FF3D48</color>
+    <color name="gold">#F4B84A</color>
+    <color name="gold_40">#90F4B84A</color>
+    <color name="dark_brown">#654321</color>
+    <color name="green">#006600</color>
+    <color name="light_grey">#50D3D3D3</color>
+    <color name="orange">#FF8C00</color>
+    <color name="app_bg">#0B1C24</color>
+    <color name="calendar_bg">#121212</color>
+    <color name="calendar_text">#FFFFFF</color>
+    <color name="calendar_selected">#FF9800</color>
+    <color name="capture_toolbar">#000000</color>
+    <color name="capture_toolbar_tint">#ffffff</color>
+
+</resources>

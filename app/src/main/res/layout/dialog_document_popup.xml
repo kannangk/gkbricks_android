@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#80000000"
+    android:gravity="center">
+
+    <com.github.chrisbanes.photoview.PhotoView
+        android:id="@+id/popupImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivDownload"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:src="@drawable/ic_download"
+        android:layout_toLeftOf="@+id/ivClose"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/selected_settings_bg"
+        android:backgroundTint="@color/app_bg"
+        android:padding="@dimen/_10sdp"/>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivClose"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:src="@drawable/ic_close"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/selected_settings_bg"
+        android:backgroundTint="@color/app_bg"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_2sdp"
+        android:padding="@dimen/_10sdp"/>
+
+</RelativeLayout>

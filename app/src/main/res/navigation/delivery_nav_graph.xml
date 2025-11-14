@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/employee_nav_graph"
+    app:startDestination="@id/deliveryHomeFragment">
+
+    <fragment
+        android:id="@+id/deliveryHomeFragment"
+        android:name="com.gk.bricks.fragment.delivery.DeliveryHomeFragment"
+        android:label="EmployeeHomeFragment"
+        tools:layout="@layout/fragment_delivery_home"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+    <fragment
+        android:id="@+id/chamberLoadingListFragment"
+        android:name="com.gk.bricks.fragment.delivery.ChamberLoadingListFragment"
+        android:label="chamberLoadingListFragment"
+        tools:layout="@layout/fragment_chamber_list"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+    <fragment
+        android:id="@+id/chamberIndiviualFragment"
+        android:name="com.gk.bricks.fragment.delivery.ChamberIndiviualFragment"
+        android:label="chamberIndiviualFragment"
+        tools:layout="@layout/fragment_chamber_individual_data"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/vendorListFragment"
+        android:name="com.gk.bricks.fragment.delivery.VendorListFragment"
+        android:label="vendorListFragment"
+        tools:layout="@layout/fragment_vendor_list"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/addVendorFragment"
+        android:name="com.gk.bricks.fragment.delivery.AddVendorFragment"
+        android:label="addVendorFragment"
+        tools:layout="@layout/fragment_vendor_add"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/vendorIndiviualFragment"
+        android:name="com.gk.bricks.fragment.delivery.VendorIndiviualFragment"
+        android:label="vendorIndiviualFragment"
+        tools:layout="@layout/fragment_vendor_individual_data"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/addVendorLogsFragment"
+        android:name="com.gk.bricks.fragment.delivery.AddVendorLogsFragment"
+        android:label="addVendorLogsFragment"
+        tools:layout="@layout/fragment_vendor_logs_add"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/chamberUnLoadingListFragment"
+        android:name="com.gk.bricks.fragment.delivery.ChamberUnLoadingListFragment"
+        android:label="chamberUnLoadingListFragment"
+        tools:layout="@layout/fragment_chamber_unloading_list"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+    <fragment
+        android:id="@+id/chamberUnloadingIndiviualFragment"
+        android:name="com.gk.bricks.fragment.delivery.ChamberUnloadingIndiviualFragment"
+        android:label="chamberUnloadingIndiviualFragment"
+        tools:layout="@layout/fragment_chamber_unloading_individual_data"
+        app:enterAnim="@anim/slide_in_right"
+        app:exitAnim="@anim/slide_out_left">
+    </fragment>
+
+</navigation>

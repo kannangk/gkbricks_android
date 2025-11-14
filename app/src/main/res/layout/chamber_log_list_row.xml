@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/_5sdp"
+    android:background="@color/app_bg"
+    android:layout_marginTop="1dp"
+    android:weightSum="10"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:text="@string/date"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_11sdp"/>
+
+    <TableRow
+        android:layout_width="0dp"
+        android:layout_weight="3.5"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvBricksCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="000"
+            android:layout_gravity="end"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:fontFamily="@font/sf_pro_display_bold"
+            android:textSize="@dimen/_12sdp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/sf_pro_display_bold"
+            android:text="@string/brick"
+            android:layout_marginStart="@dimen/_1sdp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_7sdp"
+            android:textStyle="bold" />
+    </TableRow>
+
+
+
+    <TextView
+        android:id="@+id/tvPaid"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3.5"
+        android:text="₹0"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:fontFamily="@font/sf_pro_display_bold"
+        android:textSize="@dimen/_12sdp"/>
+
+
+
+</LinearLayout>

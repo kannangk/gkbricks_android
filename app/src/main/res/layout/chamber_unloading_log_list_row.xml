@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="1dp"
+    android:background="@color/app_bg"
+    android:orientation="horizontal"
+    android:padding="@dimen/_5sdp"
+    android:weightSum="9">
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/date"
+        android:padding="@dimen/_2sdp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_9sdp" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="3"
+        android:fontFamily="@font/sf_pro_display_bold"
+        android:gravity="center"
+        android:text="000"
+        android:clickable="false"
+        android:enabled="false"
+        android:padding="@dimen/_2sdp"
+        android:textColor="@color/white"
+        android:background="@drawable/click_effect"
+        android:textSize="@dimen/_9sdp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tvLoadCount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="2.25"
+        android:fontFamily="@font/sf_pro_display_bold"
+        android:gravity="center"
+        android:text="000"
+        android:padding="@dimen/_2sdp"
+        android:clickable="false"
+        android:enabled="false"
+        android:background="@drawable/click_effect"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_9sdp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tvReceived"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_weight="2.25"
+        android:fontFamily="@font/sf_pro_display_bold"
+        android:gravity="end"
+        android:text="₹0"
+        android:padding="@dimen/_2sdp"
+        android:clickable="false"
+        android:enabled="false"
+        android:textColor="@color/white"
+        android:background="@drawable/click_effect"
+        android:textSize="@dimen/_9sdp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

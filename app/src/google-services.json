@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "435520211701",
+    "firebase_url": "https://gk-bricks-default-rtdb.firebaseio.com",
+    "project_id": "gk-bricks",
+    "storage_bucket": "gk-bricks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435520211701:android:fc7ea72df22c0e649353bc",
+        "android_client_info": {
+          "package_name": "com.gk.bricks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndYqp_47XlIJUURM7Jbpy2T90qiy1K1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

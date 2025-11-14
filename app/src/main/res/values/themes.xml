@@ -1,0 +1,77 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjectQ" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Theme.ProjectQ" parent="Base.Theme.ProjectQ" />
+
+    <style name="MyBottomNavStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@drawable/nav_bg</item>
+        <item name="itemBackground">@drawable/nav_selected_bg_selector</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="itemIconTint">@color/nav_icon_tint</item>
+        <item name="itemTextColor">@color/nav_icon_tint</item>
+        <item name="itemRippleColor">@android:color/transparent</item>
+        <item name="labelVisibilityMode">labeled</item>
+        <item name="itemIconSize">24dp</item>
+    </style>
+
+    <style name="MyTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/box_stroke_color</item>
+        <item name="hintTextColor">#878787</item>
+        <item name="color">@color/red</item>
+    </style>
+
+    <style name="MyTextInputLayoutStyle1" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/box_stroke_color</item>
+        <item name="hintTextColor">#878787</item>
+        <item name="color">@color/red</item>
+    </style>
+
+    <style name="FadingDialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+<!--    <style name="CalendarWeekDayStyle">-->
+<!--        <item name="android:textColor">#3F51B5</item>-->
+<!--        <item name="android:textSize">16sp</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+<!--    </style>-->
+
+    <style name="CalendarWeekDayStyle">
+        <item name="android:textColor">#FF9800</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="Theme.MyApp.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <style name="CustomCropImageStyle" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+    </style>
+
+    <style name="BottomNavTextActive" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="BottomNavTextInactive" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+</resources>
